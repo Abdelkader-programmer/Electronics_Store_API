@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Logitech G Pro X 2.1",
+        "model": 2026,
+        "price": 2999,
+        "color": "Black",
+        "imageUrl": "https://www.gamesworldegypt.com/image/cache/wp/gp/Product%20New/9008-320x320.webp",
+        "description": "2.1 gaming speaker system with 240W peak power, DTS:X Ultra, and Blue VO!CE microphone technology"
+    },
+    {
+        "id": 2,
+        "title": "Razer Nommo Pro",
+        "model": 2026,
+        "price": 3499,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/41hh4a-myTL.jpg",
+        "description": "2.1 THX-certified gaming speakers with 3-inch woven glass fiber drivers and dedicated subwoofer"
+    },
+    {
+        "id": 3,
+        "title": "Bose Companion 50",
+        "model": 2026,
+        "price": 3999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/S/aplus-media/sota/040b1e45-a6e1-4db7-bccb-cdcd24e1bc6e.__CR157,0,717,717_PT0_SX300_V1___.jpeg",
+        "description": "2.1 multimedia speaker system with TrueSpace stereo digital processing and control pod"
+    },
+    {
+        "id": 4,
+        "title": "JBL Professional 305P MkII",
+        "model": 2026,
+        "price": 4499,
+        "color": "Black",
+        "imageUrl": "https://www.adorama.com/images/Large/jbl-305p-mkii-studio-monitor-black_jbl305pmkiib.webp",
+        "description": "Studio monitor speakers with 5-inch low-frequency transducer and 1-inch high-frequency transducer"
+    },
+    {
+        "id": 5,
+        "title": "Audioengine A5+ Wireless",
+        "model": 2026,
+        "price": 4999,
+        "color": "White",
+        "imageUrl": "https://img.pccasegear.com/tr:n-gallery/images/1651711282-AE-A5BT-WHT-thb.jpg",
+        "description": "Wireless powered speakers with 50W per channel, aptX HD Bluetooth, and analog inputs"
+    },
+    {
+        "id": 6,
+        "title": "Edifier R1280DB",
+        "model": 2026,
+        "price": 1899,
+        "color": "Wood",
+        "imageUrl": "https://www.turntablelab.com/cdn/shop/products/edifier-r1280db-wood_c86e7b4d-0cab-46ae-b76d-6f22297143fd.jpg?v=1762273675",
+        "description": "Bookshelf speakers with Bluetooth 5.0, optical input, and 42W RMS power output"
+    },
+    {
+        "id": 7,
+        "title": "Creative Pebble Pro",
+        "model": 2026,
+        "price": 1299,
+        "color": "White",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/206031/3/206031379/s3_produktbild_max/creative-pebble-pro-white.jpg",
+        "description": "USB-C desktop speakers with RGB lighting, 45° elevated drivers, and built-in microphone"
+    },
+    {
+        "id": 8,
+        "title": "Klipsch ProMedia 2.1",
+        "model": 2026,
+        "price": 2799,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/81A4UTi-qUL._AC_UF894,1000_QL80_.jpg",
+        "description": "2.1 THX-certified computer speakers with 200 watts of peak power and dedicated subwoofer"
+    },
+    {
+        "id": 9,
+        "title": "Harman Kardon SoundSticks 4",
+        "model": 2026,
+        "price": 3299,
+        "color": "Clear",
+        "imageUrl": "https://www.harmankardon.com.sg/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwd6819d77/HK_SOUNDSTICKS_4_HERO_0497_x4.jpg?sw=556&sh=680&sm=fit&sfrm=png",
+        "description": "Iconic transparent design 2.1 speaker system with 100W total power and Bluetooth connectivity"
+    },
+    {
+        "id": 10,
+        "title": "Yamaha HS5",
+        "model": 2026,
+        "price": 3699,
+        "color": "White",
+        "imageUrl": "https://media.sweetwater.com/m/products/image/2261e95c48Vzx2B388FJpZmlC2i0eAgxuceN8fLz.png?quality=82&width=750&ha=2261e95c4899bfc0",
+        "description": "Studio monitor speakers with 5-inch cone woofer and 1-inch dome tweeter for accurate sound reproduction"
+    },
+    {
+        "id": 11,
+        "title": "Mackie CR-X Series",
+        "model": 2026,
+        "price": 2899,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/71y8Hly1LCL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+        "description": "Multimedia reference monitors with 5-inch woofers, 1-inch tweeters, and multiple input options"
+    },
+    {
+        "id": 12,
+        "title": "Presonus Eris E3.5",
+        "model": 2026,
+        "price": 1999,
+        "color": "Black",
+        "imageUrl": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/https://audiopianostor.com/wp-content/uploads/2024/06/PreSonus-Eris-E3.5-Bt-02-1-300x300.webp",
+        "description": "Compact studio monitors with 3.5-inch woven composite drivers and acoustic tuning controls"
+    },
+    {
+        "id": 13,
+        "title": "Sony SRS-RA5000",
+        "model": 2026,
+        "price": 5999,
+        "color": "Black",
+        "imageUrl": "https://i.pcmag.com/imagery/reviews/029RPyMkSXvMYUJY6gjN3eD-2.fit_lim.size_1050x.jpg",
+        "description": "360 Reality Audio speakers with seven drivers including three up-firing speakers for immersive sound"
+    },
+    {
+        "id": 14,
+        "title": "Bang & Olufsen Beosound Level",
+        "model": 2026,
+        "price": 8999,
+        "color": "Natural",
+        "imageUrl": "https://luxussound.com/cdn/shop/products/BeosoundLevel0048.jpg?v=1652953921&width=1080",
+        "description": "Premium wireless speaker with adaptive sound technology, oak wood finish, and multiroom capability"
+    },
+    {
+        "id": 15,
+        "title": "Kanto YU4",
+        "model": 2026,
+        "price": 2499,
+        "color": "Walnut",
+        "imageUrl": "https://retrospekt.com/cdn/shop/products/YU4-Walnut_1.jpg?v=1650390478&width=2048",
+        "description": "Powered bookshelf speakers with 4-inch Kevlar drivers, Bluetooth aptX, and phono preamp"
+    },
+    {
+        "id": 16,
+        "title": "Genelec 8010A",
+        "model": 2026,
+        "price": 6999,
+        "color": "White",
+        "imageUrl": "https://www.canford.co.uk/Images/ItemImages/large/76-1183_02.jpg",
+        "description": "Professional studio monitors with 3-inch drivers, Intelligent Signal Sensing, and DCW waveguide"
+    },
+    {
+        "id": 17,
+        "title": "Focal Alpha 50",
+        "model": 2026,
+        "price": 5499,
+        "color": "Black",
+        "imageUrl": "https://kmraudio.com/cdn/shop/products/focal-alpha-50-evo-kmr4_1200x.jpg?v=1680377846",
+        "description": "Active studio monitors with 5-inch aluminum/magnesium woofers and 1-inch aluminum inverted dome tweeters"
+    },
+    {
+        "id": 18,
+        "title": "Adam Audio T5V",
+        "model": 2026,
+        "price": 4299,
+        "color": "Black",
+        "imageUrl": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/https://audiopianostor.com/wp-content/uploads/2024/06/Adam-Audio-T5V-01-1.webp",
+        "description": "Studio monitors with U-ART ribbon tweeters, 5-inch woofers, and front-firing bass reflex ports"
+    },
+    {
+        "id": 19,
+        "title": "IK Multimedia iLoud Micro",
+        "model": 2026,
+        "price": 1799,
+        "color": "Black",
+        "imageUrl": "https://media.sweetwater.com/m/products/image/5d0a3fefe7GssrWeKPT8MxL5qan9X4bJdQWffOf0.jpg?quality=82&width=750&ha=5d0a3fefe75c5959",
+        "description": "Ultra-compact studio monitors with 3-inch woofers, 3/4-inch tweeters, and built-in room correction"
+    },
+    {
+        "id": 20,
+        "title": "Neumann KH 80 DSP",
+        "model": 2026,
+        "price": 9999,
+        "color": "Gray",
+        "imageUrl": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_48/481694/14742416_800.jpg",
+        "description": "Digital studio monitors with 4-inch woofers, 1-inch tweeters, and built-in DSP room correction"
+    }
+]

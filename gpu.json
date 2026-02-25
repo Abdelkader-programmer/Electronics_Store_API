@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "NVIDIA GeForce RTX 5090",
+        "model": 2026,
+        "price": 24999,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/7f84b23202d30afdaa54370e7d99e8f4-hi.jpg",
+        "description": "Flagship GPU with 24GB GDDR7 memory, 192 streaming multiprocessors, and DLSS 4 technology"
+    },
+    {
+        "id": 2,
+        "title": "AMD Radeon RX 8900 XTX",
+        "model": 2026,
+        "price": 19999,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/fc0f927b7c9a7829d28deaf5cfcf517d-hi.jpg",
+        "description": "High-end GPU with 24GB GDDR6 memory, 96 compute units, and AMD FidelityFX Super Resolution 3"
+    },
+    {
+        "id": 3,
+        "title": "NVIDIA GeForce RTX 5080",
+        "model": 2026,
+        "price": 14999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CpKKS3gzL.jpg",
+        "description": "High-performance GPU with 20GB GDDR7 memory, 160 streaming multiprocessors, and DLSS 4"
+    },
+    {
+        "id": 4,
+        "title": "AMD Radeon RX 8800 XT",
+        "model": 2026,
+        "price": 11999,
+        "color": "Black",
+        "imageUrl": "https://api2.zoomit.ir/media/652d1f8beb21a6b54f50e6f1",
+        "description": "Mid-high GPU with 20GB GDDR6 memory, 80 compute units, and AMD FidelityFX Super Resolution 3"
+    },
+    {
+        "id": 5,
+        "title": "NVIDIA GeForce RTX 5070 Ti",
+        "model": 2026,
+        "price": 9999,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/f0ce005d2c3d555353d9cb9412a70c08-hi.jpg",
+        "description": "Mid-range GPU with 16GB GDDR7 memory, 128 streaming multiprocessors, and DLSS 4"
+    },
+    {
+        "id": 6,
+        "title": "AMD Radeon RX 8700 XT",
+        "model": 2026,
+        "price": 8999,
+        "color": "Black",
+        "imageUrl": "https://www.muycomputer.com/wp-content/uploads/2024/06/Radeon-RX-8700-XT-2-1.jpg",
+        "description": "Mid-range GPU with 16GB GDDR6 memory, 64 compute units, and AMD FidelityFX Super Resolution 3"
+    },
+    {
+        "id": 7,
+        "title": "NVIDIA GeForce RTX 5060",
+        "model": 2026,
+        "price": 5999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/71C27j4Qh-L._AC_UF350,350_QL80_.jpg",
+        "description": "Entry-level GPU with 12GB GDDR7 memory, 96 streaming multiprocessors, and DLSS 4"
+    },
+    {
+        "id": 8,
+        "title": "AMD Radeon RX 8600 XT",
+        "model": 2026,
+        "price": 5499,
+        "color": "Black",
+        "imageUrl": "https://www.pcguide.com/wp-content/uploads/2024/12/RX-7800-XT-graphics-card-on-top-of-packaging.jpg",
+        "description": "Entry-level GPU with 12GB GDDR6 memory, 48 compute units, and AMD FidelityFX Super Resolution 3"
+    },
+    {
+        "id": 9,
+        "title": "NVIDIA GeForce RTX 4090",
+        "model": 2026,
+        "price": 18999,
+        "color": "Black",
+        "imageUrl": "https://image-cdn.ubuy.com/nvidia-geforce-rtx-4090-graphics-card/400_400_100/67d37bf106173e6b387a15a7.jpg",
+        "description": "Previous flagship with 24GB GDDR6X memory, 16384 CUDA cores, and DLSS 3 technology"
+    },
+    {
+        "id": 10,
+        "title": "AMD Radeon RX 7900 XTX",
+        "model": 2026,
+        "price": 13999,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/c436274a539159905741ba374ea7ac10-hi.jpg",
+        "description": "Previous high-end with 24GB GDDR6 memory, 96 compute units, and AMD FidelityFX Super Resolution 2"
+    }
+]

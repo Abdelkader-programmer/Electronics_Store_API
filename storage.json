@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Samsung 990 Pro 4TB NVMe SSD",
+        "model": 2026,
+        "price": 4999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/81luziqJ0lL.jpg",
+        "description": "4TB PCIe 4.0 NVMe SSD with 7450MB/s read speed, 6900MB/s write speed, and 8GB LPDDR4 cache"
+    },
+    {
+        "id": 2,
+        "title": "WD Black SN850X 2TB NVMe SSD",
+        "model": 2026,
+        "price": 2999,
+        "color": "Black",
+        "imageUrl": "https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/w/d/wd-black-sn850x-nvme-ssd-heatsink-front-png-wdthumb-1280-1280_haa9iov9uahiwe0r.jpg?format=webp&width=700",
+        "description": "2TB PCIe 4.0 NVMe SSD with 7300MB/s read speed, 6600MB/s write speed, and gaming mode"
+    },
+    {
+        "id": 3,
+        "title": "Seagate FireCuda 540 4TB NVMe SSD",
+        "model": 2026,
+        "price": 5499,
+        "color": "Black",
+        "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2024/9/450044261/QG/IS/GA/82637179/seagate-firecuda-540-ssd-1tb-internal-solid-state-drive-m-2-2280-pcie-gen5.jpg",
+        "description": "4TB PCIe 5.0 NVMe SSD with 10000MB/s read speed, 10000MB/s write speed, and 3D TLC NAND"
+    },
+    {
+        "id": 4,
+        "title": "Crucial P5 Plus 1TB NVMe SSD",
+        "model": 2026,
+        "price": 1499,
+        "color": "Black",
+        "imageUrl": "https://www.gamesworldegypt.com/image/cache/wp/gp/Product%20New/3377-500x500.webp",
+        "description": "1TB PCIe 4.0 NVMe SSD with 6600MB/s read speed, 5000MB/s write speed, and Micron 176L TLC"
+    },
+    {
+        "id": 5,
+        "title": "Kingston KC3000 2TB NVMe SSD",
+        "model": 2026,
+        "price": 2799,
+        "color": "Black",
+        "imageUrl": "https://media.kingston.com/kingston/product/ktc-product-ssd-kc3000-512gb-2-sm.jpg",
+        "description": "2TB PCIe 4.0 NVMe SSD with 7000MB/s read speed, 7000MB/s write speed, and low-power design"
+    },
+    {
+        "id": 6,
+        "title": "Sabrent Rocket 4 Plus 8TB NVMe SSD",
+        "model": 2026,
+        "price": 9999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Pk9KPuOZL._AC_UF1000,1000_QL80_.jpg",
+        "description": "8TB PCIe 4.0 NVMe SSD with 7100MB/s read speed, 6600MB/s write speed, and massive capacity"
+    },
+    {
+        "id": 7,
+        "title": "ADATA XPG Gammix S70 Blade 2TB",
+        "model": 2026,
+        "price": 2599,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vCKYgmZaL.jpg",
+        "description": "2TB PCIe 4.0 NVMe SSD with 7400MB/s read speed, 6800MB/s write speed, and graphene heatsink"
+    },
+    {
+        "id": 8,
+        "title": "TeamGroup Cardea Zero Z440 1TB",
+        "model": 2026,
+        "price": 1299,
+        "color": "Blue",
+        "imageUrl": "https://images.teamgroupinc.com/products/ssd/m2/z440/01.jpg",
+        "description": "1TB PCIe 4.0 NVMe SSD with 5000MB/s read speed, 4400MB/s write speed, and SLC caching"
+    },
+    {
+        "id": 9,
+        "title": "Seagate IronWolf Pro 16TB HDD",
+        "model": 2026,
+        "price": 3999,
+        "color": "Black",
+        "imageUrl": "https://www.pbtech.co.nz/imgprod/H/D/HDDSE8299A__1.jpg?h=2579486923",
+        "description": "16TB NAS hard drive with 7200RPM, 256MB cache, and AgileArray technology for 24/7 operation"
+    },
+    {
+        "id": 10,
+        "title": "WD Red Pro 20TB HDD",
+        "model": 2026,
+        "price": 5999,
+        "color": "Red",
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/7bvYFABALnSuXPKQgyoYE-970-80.jpg",
+        "description": "20TB NAS hard drive with 7200RPM, 512MB cache, and 3D Active Balance Plus technology"
+    }
+]

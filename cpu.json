@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Intel Core i9-14900K",
+        "model": 2026,
+        "price": 6999,
+        "color": "Silver",
+        "imageUrl": "https://www.ocinside.de/media/uploads/intel_core_i9_14900k_1.jpg",
+        "description": "24-core (8P+16E) processor with 5.8GHz max turbo frequency and 36MB Intel Smart Cache"
+    },
+    {
+        "id": 2,
+        "title": "AMD Ryzen 9 7950X3D",
+        "model": 2026,
+        "price": 6499,
+        "color": "Black",
+        "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/AMD/Ryzen_9_7950X3D/7950X3D_5.jpg",
+        "description": "16-core processor with 3D V-Cache technology, 144MB total cache, and 5.7GHz boost clock"
+    },
+    {
+        "id": 3,
+        "title": "Intel Core i7-14700K",
+        "model": 2026,
+        "price": 4999,
+        "color": "Silver",
+        "imageUrl": "https://www.syntech.co.za/wp-content/uploads/2023/10/BX8071514700K_wr_04b.jpg",
+        "description": "20-core (8P+12E) processor with 5.6GHz max turbo frequency and 33MB Intel Smart Cache"
+    },
+    {
+        "id": 4,
+        "title": "AMD Ryzen 7 7800X3D",
+        "model": 2026,
+        "price": 4499,
+        "color": "Black",
+        "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2024/12/Ryzen-7-7800X3D-2-728x410.jpg",
+        "description": "8-core gaming processor with 3D V-Cache, 104MB total cache, and 5.0GHz boost clock"
+    },
+    {
+        "id": 5,
+        "title": "Intel Core i5-14600K",
+        "model": 2026,
+        "price": 3499,
+        "color": "Silver",
+        "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/652e76a8fe426807a2fe3927/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=600&width=1200&fit=bounds",
+        "description": "14-core (6P+8E) processor with 5.3GHz max turbo frequency and 24MB Intel Smart Cache"
+    },
+    {
+        "id": 6,
+        "title": "AMD Ryzen 5 7600X",
+        "model": 2026,
+        "price": 2999,
+        "color": "Black",
+        "imageUrl": "https://elyamamastore.com/cdn/shop/files/AMD-Ryzen-5-7600X-Mid-Range-Powerhouse-for-Gaming-Creation-Elyamama-37740716228839.avif?v=1764075627&width=1214",
+        "description": "6-core processor with 5.3GHz boost clock, 38MB total cache, and AMD EXPO technology"
+    },
+    {
+        "id": 7,
+        "title": "Intel Core i9-13900KS",
+        "model": 2026,
+        "price": 5999,
+        "color": "Silver",
+        "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/6/317739774/PH/NX/BN/189527434/intel-core-i9-13900k-desktop-processor.jpg",
+        "description": "24-core (8P+16E) special edition processor with 6.0GHz max turbo frequency"
+    },
+    {
+        "id": 8,
+        "title": "AMD Threadripper PRO 7995WX",
+        "model": 2026,
+        "price": 24999,
+        "color": "Black",
+        "imageUrl": "https://computerlounge.co.nz/cdn/shop/files/077cd5ad6893c6221a0c33dceec7e72dc18edbaa_55297_1.jpg?v=1718657048&width=1200",
+        "description": "96-core workstation processor with 384MB L3 cache and 8-channel DDR5 memory support"
+    },
+    {
+        "id": 9,
+        "title": "Intel Xeon W9-3495X",
+        "model": 2026,
+        "price": 29999,
+        "color": "Silver",
+        "imageUrl": "https://images.hothardware.com/contentimages/newsitem/61162/content/hero-intel-xeon-w-sapphire-rapids.jpg",
+        "description": "56-core workstation processor with 105MB cache and 8-channel DDR5 memory support"
+    },
+    {
+        "id": 10,
+        "title": "AMD Ryzen 9 7900X",
+        "model": 2026,
+        "price": 5499,
+        "color": "Black",
+        "imageUrl": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-9-7900x.jpg",
+        "description": "12-core processor with 5.6GHz boost clock, 76MB total cache, and PCIe 5.0 support"
+    }
+]

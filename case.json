@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "NZXT H9 Flow RGB",
+        "model": 2026,
+        "price": 5999,
+        "color": "White",
+        "imageUrl": "https://bigbyte.com.np/wp-content/uploads/2025/08/09_H9-Arthas-2025_H9-Flow-RGB_white-1.jpg",
+        "description": "Dual-chamber PC case with tempered glass panels, RGB lighting, and excellent airflow design"
+    },
+    {
+        "id": 2,
+        "title": "Lian Li O11 Dynamic EVO RGB",
+        "model": 2026,
+        "price": 6499,
+        "color": "Black",
+        "imageUrl": "https://cdn.salla.sa/bEdDw/f6db24a6-72c5-41a6-aec4-7c3dac4ff847-1000x1000-mhMsYxgqDlfkLL9Kixa4hLyIQhX1Stir8okJPLpN.jpg",
+        "description": "Modular PC case with reversible design, dual-chamber layout, and support for multiple radiators"
+    },
+    {
+        "id": 3,
+        "title": "Corsair 5000D Airflow",
+        "model": 2026,
+        "price": 5499,
+        "color": "Black",
+        "imageUrl": "https://dimensiva.com/wp-content/uploads/edd/2022/06/5000d-airflow-glass-mid-tower-atx-pc-case-by-corsair.jpg",
+        "description": "Mid-tower PC case with excellent airflow, cable management, and support for up to 10 fans"
+    },
+    {
+        "id": 4,
+        "title": "Fractal Design North",
+        "model": 2026,
+        "price": 4899,
+        "color": "Walnut",
+        "imageUrl": "https://www.fractal-design.com/app/uploads/2022/12/North_White_Mesh_1-Left-Front-810x810.jpg",
+        "description": "PC case with natural wood front panel, mesh airflow, and minimalist Scandinavian design"
+    },
+    {
+        "id": 5,
+        "title": "Phanteks NV7",
+        "model": 2026,
+        "price": 6999,
+        "color": "Black",
+        "imageUrl": "https://www.caseking.de/on/demandware.static/-/Sites-master-catalog-caseking/default/dwd848bd4e/images/data/media/image/geph-156_geph_156_02.jpg",
+        "description": "Full-tower PC case with panoramic tempered glass, integrated RGB, and vertical GPU mounting"
+    },
+    {
+        "id": 6,
+        "title": "Cooler Master MasterBox 520",
+        "model": 2026,
+        "price": 4299,
+        "color": "Black",
+        "imageUrl": "https://elyamamastore.com/cdn/shop/files/Unleash-High-Airflow-Performance-with-the-Cooler-Master-MasterBox-520-Mesh-ARGB-Case-Elyamama-36313084756199.jpg?v=1764074577&width=1000",
+        "description": "Mid-tower case with mesh front panel, ARGB fans, and tool-free design for easy building"
+    },
+    {
+        "id": 7,
+        "title": "Thermaltake Tower 500",
+        "model": 2026,
+        "price": 5799,
+        "color": "Snow",
+        "imageUrl": "https://thermaltakeusa.com/cdn/shop/files/ac-062-oo6nan-b2.jpg?v=1695759723&width=1445",
+        "description": "Cube-style PC case with dual-chamber design, 360mm radiator support, and unique vertical layout"
+    },
+    {
+        "id": 8,
+        "title": "be quiet! Silent Base 802",
+        "model": 2026,
+        "price": 5199,
+        "color": "Black",
+        "imageUrl": "https://www.cclonline.com/images/avante/1_Silent_Base_802_black.jpg?width=1600&height=1600&scale=canvas&trim.threshold=80",
+        "description": "Silent PC case with sound-dampening materials, modular design, and excellent thermal performance"
+    },
+    {
+        "id": 9,
+        "title": "ASUS ROG Strix Helios",
+        "model": 2026,
+        "price": 7499,
+        "color": "Black",
+        "imageUrl": "https://media.icdn.hu/product/2025-10/749162/2065515_asus-rog-strix-helios-ii-fekete.webp",
+        "description": "Full-tower gaming case with aluminum construction, Aura Sync RGB, and ROG-themed design"
+    },
+    {
+        "id": 10,
+        "title": "HYTE Y70 Touch",
+        "model": 2026,
+        "price": 8999,
+        "color": "White",
+        "imageUrl": "https://cdn.sanity.io/images/mqc7p4g4/production/6359cca62c43890dc0d97ffa99d7b041209473fd-3480x2460.jpg?w=3840&q=75&fit=clip&auto=format",
+        "description": "Premium PC case with integrated 14.1-inch touchscreen display, tempered glass panels, and RGB lighting"
+    },
+    {
+        "id": 11,
+        "title": "NZXT H5 Flow RGB",
+        "model": 2026,
+        "price": 3899,
+        "color": "Black",
+        "imageUrl": "https://media.ldlc.com/r1600/ld/products/00/06/19/64/LD0006196433.jpg",
+        "description": "Compact mid-tower case with angled fan design, mesh front panel, and pre-installed RGB fans"
+    },
+    {
+        "id": 12,
+        "title": "Lian Li Lancool 216",
+        "model": 2026,
+        "price": 4499,
+        "color": "Black",
+        "imageUrl": "https://www.dateks.lv/images/pic/1200/1200/509/1469.jpg",
+        "description": "Mid-tower case with two 160mm front fans, mesh panels, and excellent airflow performance"
+    },
+    {
+        "id": 13,
+        "title": "Corsair iCUE 4000D RGB",
+        "model": 2026,
+        "price": 4699,
+        "color": "White",
+        "imageUrl": "https://www.creatus.com.bd/image/cache/catalog/CORSAIR/corsair-icue-4000d-rgb-airflow-casing-white-2-500x500.jpg.webp",
+        "description": "Mid-tower case with tempered glass side panel, three SP120 RGB fans, and Corsair iCUE integration"
+    },
+    {
+        "id": 14,
+        "title": "Fractal Design Pop Air RGB",
+        "model": 2026,
+        "price": 4199,
+        "color": "Orange",
+        "imageUrl": "https://www.fractal-design.com/app/uploads/2022/06/Pop_ATX_Air_RGB_Orange_TGC_1-Front-Left-v1.jpg",
+        "description": "Colorful PC case with vibrant color options, mesh front panel, and built-in RGB lighting"
+    },
+    {
+        "id": 15,
+        "title": "Phanteks Eclipse G360A",
+        "model": 2026,
+        "price": 3999,
+        "color": "Black",
+        "imageUrl": "https://img.overclockers.co.uk/images/CA-0B4-PT/899561f2141b513234654c1e6fd6d40c.jpg",
+        "description": "Mid-tower case with three D-RGB fans, mesh front panel, and excellent value for performance"
+    },
+    {
+        "id": 16,
+        "title": "Cooler Master HAF 700 EVO",
+        "model": 2026,
+        "price": 7999,
+        "color": "Black",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbdHT41tWIVk84iX5ZoD4TtuCZFRj2ZyfrA&s",
+        "description": "High Air Flow case with dual 200mm fans, modular design, and support for the largest components"
+    },
+    {
+        "id": 17,
+        "title": "Thermaltake Core P8",
+        "model": 2026,
+        "price": 6799,
+        "color": "Tempered Glass",
+        "imageUrl": "https://img.overclockers.co.uk/media/image/CA1ABTT_262435.jpg",
+        "description": "Open-frame PC case with panoramic tempered glass, modular design, and showcase-style layout"
+    },
+    {
+        "id": 18,
+        "title": "be quiet! Dark Base Pro 901",
+        "model": 2026,
+        "price": 7299,
+        "color": "Black",
+        "imageUrl": "https://www.awd-it.co.uk/media/catalog/product/b/g/bgw50_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=680&width=680&canvas=680:680",
+        "description": "Full-tower silent case with modular interior, wireless charging pad, and advanced sound dampening"
+    },
+    {
+        "id": 19,
+        "title": "ASUS Prime AP201",
+        "model": 2026,
+        "price": 3499,
+        "color": "White",
+        "imageUrl": "https://edgeup.asus.com/wp-content/uploads/2022/05/ap201-1.jpg",
+        "description": "Micro-ATX case with mesh panels, compact design, and excellent airflow for small form factor builds"
+    },
+    {
+        "id": 20,
+        "title": "Montech AIR 903 MAX",
+        "model": 2026,
+        "price": 3299,
+        "color": "Black",
+        "imageUrl": "https://www.cclonline.com/images/shopblocks/CAS5373.png?width=1600&height=1600&scale=canvas&format=jpg&trim.threshold=80",
+        "description": "Budget-friendly PC case with three 140mm PWM fans, mesh front panel, and excellent airflow performance"
+    }
+]

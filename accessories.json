@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "title": "Logitech C920 HD Pro Webcam",
+        "model": 2026,
+        "price": 1299,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GVDotdoIL.jpg",
+        "description": "Full HD 1080p webcam with stereo audio, autofocus, and light correction technology"
+    },
+    {
+        "id": 2,
+        "title": "Blue Yeti X Professional USB Microphone",
+        "model": 2026,
+        "price": 1899,
+        "color": "Black",
+        "imageUrl": "https://hardwaremarket.net/wp-content/uploads/2021/04/61aKoZZJlBL._AC_SL1500_-600x600.jpg.webp",
+        "description": "USB condenser microphone with 4-capsule array, LED metering, and multiple pickup patterns"
+    },
+    {
+        "id": 3,
+        "title": "Elgato Stream Deck MK.2",
+        "model": 2026,
+        "price": 1499,
+        "color": "Black",
+        "imageUrl": "https://plecom.imgix.net/iil-310402-654724.jpg?fit=fillmax&fill=solid&fill-color=ffffff&auto=format&w=1000&h=1000",
+        "description": "15-key customizable control pad with LCD keys for streaming, editing, and productivity"
+    },
+    {
+        "id": 4,
+        "title": "Corsair MM700 RGB Extended Mouse Pad",
+        "model": 2026,
+        "price": 899,
+        "color": "Black",
+        "imageUrl": "https://www.scan.co.uk/images/products/xlarge/3465313-xl-a.jpg",
+        "description": "Extended RGB mouse pad with 3-zone dynamic lighting and micro-textured cloth surface"
+    },
+    {
+        "id": 5,
+        "title": "Razer Mouse Bungee V3 Chroma",
+        "model": 2026,
+        "price": 599,
+        "color": "Black",
+        "imageUrl": "https://store974.com/cdn/shop/products/NewProject-2021-12-20T093512.048-788240.jpg?crop=center&height=1000&v=1678712602&width=1000",
+        "description": "Mouse bungee with Razer Chroma RGB lighting, adjustable height, and cable management"
+    },
+    {
+        "id": 6,
+        "title": "SteelSeries QcK Prism XL Mouse Pad",
+        "model": 2026,
+        "price": 799,
+        "color": "Black",
+        "imageUrl": "https://hardwaremarket.net/wp-content/uploads/2021/03/gearvn-lot-chuot-qck-edge-medium-6_c8a8533cb56145da9c795f3293674659.jpg",
+        "description": "RGB illuminated mouse pad with 16.8 million colors and PrismSync technology"
+    },
+    {
+        "id": 7,
+        "title": "HyperX QuadCast S Microphone",
+        "model": 2026,
+        "price": 1599,
+        "color": "Black",
+        "imageUrl": "https://row.hyperx.com/cdn/shop/files/hyperx_quadcast_2_s_9a273aa_angle_4.jpg?v=1737968002&width=1946",
+        "description": "USB condenser microphone with anti-vibration shock mount and RGB lighting effects"
+    },
+    {
+        "id": 8,
+        "title": "Anker PowerExpand 13-in-1 Thunderbolt 4 Dock",
+        "model": 2026,
+        "price": 2499,
+        "color": "Space Gray",
+        "imageUrl": "https://www.blink.com.kw/cdn/shop/files/A8397_67337147-8cbc-4844-b97b-abaf4190a884.jpg?v=1714552297",
+        "description": "Thunderbolt 4 docking station with 13 ports including HDMI, Ethernet, and SD card reader"
+    },
+    {
+        "id": 9,
+        "title": "CableMod Custom Sleeved Cable Kit",
+        "model": 2026,
+        "price": 1299,
+        "color": "White",
+        "imageUrl": "https://cdn.cablemod.com/wp-content/uploads/2014/12/CM-SS3-FKIT-KW-1-1000x999.jpg",
+        "description": "Custom sleeved PSU cable kit with premium connectors and various color options"
+    },
+    {
+        "id": 10,
+        "title": "Lian Li Strimer Plus V2 24-pin",
+        "model": 2026,
+        "price": 1199,
+        "color": "RGB",
+        "imageUrl": "https://csnetgames.com/thumb/photo/0/0/ar/upload_photo/2023-12-03/1701640525_1_1701640525_hGDdcyNX6N.png",
+        "description": "RGB power extension cable with addressable LEDs and customizable lighting effects"
+    },
+    {
+        "id": 11,
+        "title": "NZXT USB Hub",
+        "model": 2026,
+        "price": 699,
+        "color": "Black",
+        "imageUrl": "https://cdn.shoplightspeed.com/shops/645385/files/66918784/1652x2313x2/nzxt-nzxt-ac-iusbh-m3-internal-20-usb-hub.jpg",
+        "description": "7-port USB 3.0 hub with individual power switches and NZXT CAM software integration"
+    },
+    {
+        "id": 12,
+        "title": "Thermaltake PCIe 4.0 Riser Cable",
+        "model": 2026,
+        "price": 899,
+        "color": "Black",
+        "imageUrl": "https://thermaltakeusa.com/cdn/shop/files/dual_90_degree_riser_cable_1_1.jpg?v=1717628812",
+        "description": "PCIe 4.0 x16 riser cable for vertical GPU mounting with 90-degree connector"
+    },
+    {
+        "id": 13,
+        "title": "Cooler Master Vertical GPU Mount",
+        "model": 2026,
+        "price": 1299,
+        "color": "Black",
+        "imageUrl": "https://tandoanh.vn/wp-content/uploads/2022/09/Cooler-Master-Vertical-Graphics-Card-Holder-Kit-V3-H2.jpg",
+        "description": "Universal vertical GPU mounting kit with PCIe 4.0 riser cable and adjustable brackets"
+    },
+    {
+        "id": 14,
+        "title": "Phanteks RGB LED Strip Combo",
+        "model": 2026,
+        "price": 799,
+        "color": "RGB",
+        "imageUrl": "https://pinklehub.com/cdn/shop/products/Neon_DRGBSTRIP_M5_Black_02.jpg?v=1688796275&width=1445",
+        "description": "Magnetic RGB LED strip kit with 40 LEDs per meter and addressable lighting control"
+    },
+    {
+        "id": 15,
+        "title": "be quiet! Light Wings 120mm PWM",
+        "model": 2026,
+        "price": 899,
+        "color": "White",
+        "imageUrl": "https://media.ldlc.com/r1600/ld/products/00/06/03/02/LD0006030222.jpg",
+        "description": "PWM RGB fans with double-sided lighting, fluid dynamic bearings, and silent operation"
+    },
+    {
+        "id": 16,
+        "title": "Noctua NA-FC1 Fan Controller",
+        "model": 2026,
+        "price": 599,
+        "color": "Brown",
+        "imageUrl": "https://www.enostech.com/wp-content/uploads/2022/05/20220509_165834-Copy.jpg",
+        "description": "4-channel PWM fan controller with automatic speed control and temperature sensors"
+    },
+    {
+        "id": 17,
+        "title": "Arctic MX-6 Thermal Paste",
+        "model": 2026,
+        "price": 299,
+        "color": "Gray",
+        "imageUrl": "https://highendstore.net/image/cache/catalog/mx6-1080x1080.png",
+        "description": "High-performance thermal compound with 8.5 W/mK thermal conductivity and easy application"
+    },
+    {
+        "id": 18,
+        "title": "Thermal Grizzly Kryonaut Extreme",
+        "model": 2026,
+        "price": 499,
+        "color": "Silver",
+        "imageUrl": "https://www.extremehardware.co.uk/cdn/shop/files/thermal-grizzly-kryonaut-1g-1.jpg?v=1721318589",
+        "description": "Premium thermal paste with 14.2 W/mK thermal conductivity for extreme overclocking"
+    },
+    {
+        "id": 19,
+        "title": "iFixit Pro Tech Toolkit",
+        "model": 2026,
+        "price": 1499,
+        "color": "Blue",
+        "imageUrl": "https://3d.nice-cdn.com/upload/image/product/large/default/ifixit-pro-tech-toolkit-1-pc-400544-en.jpg",
+        "description": "Professional repair toolkit with 64 precision tools for computer and electronics repair"
+    },
+    {
+        "id": 20,
+        "title": "Wera Kraftform Micro Screwdriver Set",
+        "model": 2026,
+        "price": 899,
+        "color": "Green",
+        "imageUrl": "https://cdn11.bigcommerce.com/s-9t4wk8/images/stencil/2000x2000/products/29650/64354/WR073678__79305.1607713798.jpg?c=4",
+        "description": "Precision screwdriver set with 11 bits and ergonomic handle for computer assembly"
+    },
+    {
+        "id": 21,
+        "title": "Cable Management Sleeve Kit",
+        "model": 2026,
+        "price": 399,
+        "color": "Black",
+        "imageUrl": "https://procase.com/cdn/shop/files/41fUj7ABTJL.jpg?v=1684484537",
+        "description": "Expandable cable management sleeves with hook-and-loop fasteners for organizing cables"
+    },
+    {
+        "id": 22,
+        "title": "UGREEN USB-C to Ethernet Adapter",
+        "model": 2026,
+        "price": 499,
+        "color": "White",
+        "imageUrl": "https://jo-cell.com/cdn/shop/files/51-5nUsg7LL._AC_SL1300_1024x.jpg?v=1752475951",
+        "description": "Gigabit Ethernet adapter with USB-C connector for laptops and tablets"
+    },
+    {
+        "id": 23,
+        "title": "Satechi Aluminum Stand for MacBook",
+        "model": 2026,
+        "price": 799,
+        "color": "Space Gray",
+        "imageUrl": "https://istorm.com.cy/cdn/shop/files/st-altsm_2_d0bb6d66-aa46-4dca-99d3-640ea1e6b760.jpg?v=1741942530&width=1445",
+        "description": "Aluminum laptop stand with adjustable height and ventilation for better cooling"
+    },
+    {
+        "id": 24,
+        "title": "VIVO Dual Monitor Desk Mount",
+        "model": 2026,
+        "price": 1199,
+        "color": "Black",
+        "imageUrl": "https://vivo-us.com/cdn/shop/files/p1p1a_7b3b1fcc-b0dc-4db0-8273-9884073cf6f8.jpg?v=1755014926",
+        "description": "Gas spring dual monitor arm with full motion adjustment and cable management"
+    },
+    {
+        "id": 25,
+        "title": "Ergotron LX Desk Mount Arm",
+        "model": 2026,
+        "price": 1899,
+        "color": "White",
+        "imageUrl": "https://media.ergotron.com/reserved/parts/45-360-026-a1-orig.jpg",
+        "description": "Premium monitor arm with 360-degree rotation, height adjustment, and smooth movement"
+    },
+    {
+        "id": 26,
+        "title": "Groovemade Desk Shelf",
+        "model": 2026,
+        "price": 2299,
+        "color": "Walnut",
+        "imageUrl": "https://grovemade.imgix.net/https%3A%2F%2Fgrovemade.com%2Fshop-static%2Fshop%2Fvariant%2Fgrovemade-standing-desk-walnut-solid-program-galA-C1.jpg%3F_v%3D1712348952.3386037?auto=format&ixlib=python-1.1.2&w=3000&s=947df20532839c88c31d98fe996a2e7f",
+        "description": "Walnut wood desk shelf with cable management and elevated monitor positioning"
+    },
+    {
+        "id": 27,
+        "title": "BENGOO Gaming Headset Stand",
+        "model": 2026,
+        "price": 599,
+        "color": "RGB",
+        "imageUrl": "https://www.ubuy.com.bh/productimg/?image=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9JLzQxNDVBYmowc3NMLmpwZw.jpg",
+        "description": "RGB headset stand with USB hub, 3.5mm audio jack, and adjustable lighting modes"
+    },
+    {
+        "id": 28,
+        "title": "SteelSeries Gaming Chair Cushion",
+        "model": 2026,
+        "price": 899,
+        "color": "Black",
+        "imageUrl": "https://s.alicdn.com/@sc04/kf/H517b07f465164b9e858f508a07d48105y/Wholesale-Customize-Embroidery-logo-Gaming-Chair-Ergonomic-Seat-Comfortable-Steelseries-4d-Armrest-Pc-Gaming-Chair-Gaming-Chairs.jpg",
+        "description": "Ergonomic memory foam cushion with cooling gel layer for long gaming sessions"
+    },
+    {
+        "id": 29,
+        "title": "KLIM Wind Laptop Cooling Pad",
+        "model": 2026,
+        "price": 699,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/81DYE5sMvFL.jpg",
+        "description": "Laptop cooling pad with 5 adjustable fans, RGB lighting, and ergonomic angle adjustment"
+    },
+    {
+        "id": 30,
+        "title": "APC Back-UPS Pro 1500VA",
+        "model": 2026,
+        "price": 3499,
+        "color": "Black",
+        "imageUrl": "https://snpi.dell.com/snp/images/products/large/en-us~AC872448/AC872448.jpg",
+        "description": "Uninterruptible power supply with 1500VA capacity, 10 outlets, and surge protection"
+    }
+]

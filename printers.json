@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "HP OfficeJet Pro 9025e",
+        "model": 2026,
+        "price": 4499,
+        "color": "White",
+        "imageUrl": "https://de2wfhoo6xqi5.cloudfront.net/size/600/1c0/4d6/9625c7b35277fa0c1342f1e8a39279f814.jpg",
+        "description": "All-in-one wireless printer with automatic document feeder, 2-sided printing, and HP Smart app"
+    },
+    {
+        "id": 2,
+        "title": "Epson EcoTank ET-8500",
+        "model": 2026,
+        "price": 6999,
+        "color": "Black",
+        "imageUrl": "https://eg.jumia.is/dUsSzTB34gkc_AOyU2Xr8Ec0h6E=/fit-in/500x500/filters:fill(white)/product/95/559493/1.jpg?8654",
+        "description": "Wireless all-in-one printer with refillable ink tanks, 2-year ink supply, and A3+ printing capability"
+    },
+    {
+        "id": 3,
+        "title": "Canon PIXMA TR8620a",
+        "model": 2026,
+        "price": 3899,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ax6nvU-AL._AC_UF894,1000_QL80_.jpg",
+        "description": "All-in-one printer with 5-color individual ink system, automatic document feeder, and wireless connectivity"
+    },
+    {
+        "id": 4,
+        "title": "Brother MFC-L8900CDW",
+        "model": 2026,
+        "price": 8999,
+        "color": "White",
+        "imageUrl": "https://www.brother.com.au/-/media/ap2/singapore/migration/microsite/solutionpages/printer-laser-mfc-l8900cdw-f.jpg?rev=5015af3f43e0464ba47422573501ab6a",
+        "description": "Color laser all-in-one printer with 50-page automatic document feeder and wireless networking"
+    },
+    {
+        "id": 5,
+        "title": "Xerox VersaLink C7000",
+        "model": 2026,
+        "price": 12999,
+        "color": "White",
+        "imageUrl": "https://www.shop.xerox.com/media/catalog/product/cache/d71c9e55e6299aa8261d6db30899d521/c/7/c7000-n-dn-1000x1000_1.jpg",
+        "description": "Color multifunction printer with touchscreen interface, cloud connectivity, and advanced security features"
+    },
+    {
+        "id": 6,
+        "title": "HP LaserJet Pro MFP M428fdw",
+        "model": 2026,
+        "price": 7999,
+        "color": "White",
+        "imageUrl": "https://s.alicdn.com/@sc04/kf/H4ebee6bb06ca4d5297df3ffdd2e93268w/LaserJet-Pro-MFP-M428dw-428fdw-428fdn-Wireless-Multifunction-Monochrome-Laser-Printer.png_300x300.jpg",
+        "description": "Monochrome laser all-in-one printer with automatic duplex printing and wireless direct printing"
+    },
+    {
+        "id": 7,
+        "title": "Epson WorkForce Pro WF-7840",
+        "model": 2026,
+        "price": 10999,
+        "color": "Black",
+        "imageUrl": "https://mediaserver.goepson.com/ImConvServlet/imconv/71705a3b37c17e4ca767a85d87cb608348e39b19/1200Wx1200H?use=banner&hybrisId=B2C&assetDescr=wf7840_prod03_left_690x460",
+        "description": "Wireless all-in-one printer with 250-sheet paper capacity and high-volume printing capability"
+    },
+    {
+        "id": 8,
+        "title": "Canon imageCLASS MF656Cdw",
+        "model": 2026,
+        "price": 8499,
+        "color": "White",
+        "imageUrl": "https://i.ebayimg.com/images/g/35EAAOSw9xBlLndt/s-l1600.jpg",
+        "description": "Color laser all-in-one printer with 5-inch touchscreen and mobile printing capabilities"
+    },
+    {
+        "id": 9,
+        "title": "Brother HL-L6400DW",
+        "model": 2026,
+        "price": 9999,
+        "color": "Black",
+        "imageUrl": "https://cdn.mafrservices.com/pim-content/UAE/media/product/2190642/1723587004/2190642_main.jpg?im=Resize=400",
+        "description": "Monochrome laser printer with 65 pages per minute printing speed and large paper capacity"
+    },
+    {
+        "id": 10,
+        "title": "Lexmark MC3326adwe",
+        "model": 2026,
+        "price": 7499,
+        "color": "Black",
+        "imageUrl": "https://media.lexmark.com/www/asset/25/14450/+gallery(4).jpg",
+        "description": "Color laser all-in-one printer with embedded security features and cloud connectivity"
+    },
+    {
+        "id": 11,
+        "title": "Ricoh IM C4500",
+        "model": 2026,
+        "price": 14999,
+        "color": "White",
+        "imageUrl": "https://www.abdofficesolutions.com/cdn/shop/products/Ricoh_IM_C4500.jpg?v=1732037872",
+        "description": "A3 color multifunction printer with 10.1-inch touchscreen and advanced document management"
+    },
+    {
+        "id": 12,
+        "title": "Konica Minolta bizhub C750i",
+        "model": 2026,
+        "price": 17999,
+        "color": "Black",
+        "imageUrl": "https://www.photocopiersrus.com/wp-content/uploads/2023/08/FPNG.jpg",
+        "description": "Production color printer with 75 pages per minute speed and intelligent quality optimization"
+    },
+    {
+        "id": 13,
+        "title": "OKI MC853dn",
+        "model": 2026,
+        "price": 11999,
+        "color": "White",
+        "imageUrl": "https://okoki.co.uk/wp-content/uploads/2015/05/OKI-MC853.jpg",
+        "description": "LED multifunction printer with Single Pass Duplex technology and energy-saving features"
+    },
+    {
+        "id": 14,
+        "title": "Sharp MX-5071",
+        "model": 2026,
+        "price": 13999,
+        "color": "Black",
+        "imageUrl": "https://doctech.com.my/wp-content/uploads/2020/03/Iqbal.png",
+        "description": "A3 color multifunction printer with 10.1-inch touch display and embedded security suite"
+    },
+    {
+        "id": 15,
+        "title": "Kyocera ECOSYS M6526cdn",
+        "model": 2026,
+        "price": 9999,
+        "color": "White",
+        "imageUrl": "https://www.abdofficesolutions.com/cdn/shop/products/ECOSYS_M6526cdn.jpg?v=1582756004",
+        "description": "Color multifunction printer with long-life drum technology and low total cost of ownership"
+    },
+    {
+        "id": 16,
+        "title": "Toshiba e-STUDIO356",
+        "model": 2026,
+        "price": 10999,
+        "color": "White",
+        "imageUrl": "https://toshibacopiers.com/wp-content/uploads/2017/10/Toshiba-e-Studio-356-Black-and-White-MFP-Copy.jpg",
+        "description": "A3 multifunction printer with 35 pages per minute speed and intuitive operation panel"
+    },
+    {
+        "id": 17,
+        "title": "Samsung ProXpress C3060",
+        "model": 2026,
+        "price": 8999,
+        "color": "White",
+        "imageUrl": "https://i.pcmag.com/imagery/reviews/01YnsPqXWnacdq6NMHFdJ8L-3..v1569473808.jpg",
+        "description": "Color laser multifunction printer with ReCP technology for enhanced image quality"
+    },
+    {
+        "id": 18,
+        "title": "Pantum M6800FDW",
+        "model": 2026,
+        "price": 5999,
+        "color": "Black",
+        "imageUrl": "https://drivers.pantum.us/userfiles/images/%E4%BA%A7%E5%93%81%E5%9B%BE%E7%89%87/5%20(2).png",
+        "description": "Monochrome laser all-in-one printer with automatic document feeder and wireless connectivity"
+    },
+    {
+        "id": 19,
+        "title": "Dell C3765dnf",
+        "model": 2026,
+        "price": 7999,
+        "color": "Black",
+        "imageUrl": "https://i.pcmag.com/imagery/reviews/06dURKCAI4xXjvxG11vaSev-5..v1569478135.jpg",
+        "description": "Color laser all-in-one printer with automatic duplex printing and network connectivity"
+    },
+    {
+        "id": 20,
+        "title": "Fujifilm ApeosPort-VII C3370",
+        "model": 2026,
+        "price": 15999,
+        "color": "White",
+        "imageUrl": "https://asset-fb.fujifilm.com/www/fbph/files/2025-10/ef93eb090e25b080d5b00ff5a76d2664/thumb_color_01.jpg",
+        "description": "A3 color multifunction printer with 33 pages per minute speed and advanced security features"
+    }
+]

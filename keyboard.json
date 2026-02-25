@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Razer BlackWidow V4 Pro",
+        "model": 2026,
+        "price": 2999,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/624707cf2cbb1950224f449cbe1c4c68-hi.jpg",
+        "description": "Mechanical gaming keyboard with Razer Green switches, multi-function dial, and 8 macro keys"
+    },
+    {
+        "id": 2,
+        "title": "Logitech G915 TKL Wireless",
+        "model": 2026,
+        "price": 3499,
+        "color": "White",
+        "imageUrl": "https://dmau.imgix.net/media/catalog/product/9/2/920-012738-logitech-g915-x-lightspeed-tkl-lwireless-gaming-keyboard-2_yhe5pr8rpdi8blcu.jpg?auto=format%2Ccompress&fit=fill&fill-color=ffffff&q=70",
+        "description": "Wireless mechanical keyboard with low-profile GL switches, LIGHTSYNC RGB, and aluminum top plate"
+    },
+    {
+        "id": 3,
+        "title": "SteelSeries Apex Pro TKL",
+        "model": 2026,
+        "price": 3299,
+        "color": "Black",
+        "imageUrl": "https://bcdn.alfuhod.com/media/catalog/product/cache/c49c6d580f7f24178041719fd0fed908/image/20077c2b9/steelseries-apex-pro-tkl-2023-wired-rgb-mechanical-gaming-keyboard-us-layout-black.webp",
+        "description": "Mechanical keyboard with OmniPoint 2.0 adjustable switches, OLED smart display, and aluminum frame"
+    },
+    {
+        "id": 4,
+        "title": "ASUS ROG Azoth",
+        "model": 2026,
+        "price": 3999,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/1c4a110d0ee751fc10904a9b9aea6ed2-hi.jpg",
+        "description": "Customizable gaming keyboard with hot-swappable ROG NX switches, OLED display, and gasket mount"
+    },
+    {
+        "id": 5,
+        "title": "Corsair K70 RGB TKL",
+        "model": 2026,
+        "price": 2799,
+        "color": "Black",
+        "imageUrl": "https://www.jbhifi.com.au/cdn/shop/files/789064-Product-0-I-638639593209747507.jpg?v=1728362594",
+        "description": "Tenkeyless mechanical keyboard with Cherry MX switches, PBT keycaps, and Corsair AXON hyper-processing"
+    },
+    {
+        "id": 6,
+        "title": "Keychron Q1 Pro",
+        "model": 2026,
+        "price": 2499,
+        "color": "Silver",
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/HPzzzKcqJCe4qv6j589wqZ.jpg",
+        "description": "Wireless mechanical keyboard with gasket mount design, hot-swappable switches, and QMK/VIA support"
+    },
+    {
+        "id": 7,
+        "title": "Ducky One 3 SF",
+        "model": 2026,
+        "price": 1899,
+        "color": "White",
+        "imageUrl": "https://microless.com/cdn/products/eb90603401b1f5975c9810cbee03ef5d-hi.jpg",
+        "description": "65% mechanical keyboard with hot-swappable switches, doubleshot PBT keycaps, and RGB lighting"
+    },
+    {
+        "id": 8,
+        "title": "HyperX Alloy Origins 65",
+        "model": 2026,
+        "price": 2199,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/42b03cd4774f3886239e5057fe37913d-hi.jpg",
+        "description": "65% mechanical keyboard with HyperX Red switches, aircraft-grade aluminum frame, and RGB lighting"
+    },
+    {
+        "id": 9,
+        "title": "Razer Huntsman V3 Pro",
+        "model": 2026,
+        "price": 3699,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/81sBY7suByL._AC_UF350,350_QL80_.jpg",
+        "description": "Optical gaming keyboard with Razer Analog Optical switches, 8000Hz polling rate, and multi-function dial"
+    },
+    {
+        "id": 10,
+        "title": "Glorious GMMK Pro",
+        "model": 2026,
+        "price": 2599,
+        "color": "White",
+        "imageUrl": "https://www.gloriousgaming.com/cdn/shop/files/GLO-GMMK-P75-RGB-ISO-W_Web_Gallery_Top_d85436e6-da81-44a9-b403-139d7dd5e9a5.webp?v=1720630243&width=800",
+        "description": "75% mechanical keyboard with gasket mount, hot-swappable PCB, and CNC aluminum frame"
+    },
+    {
+        "id": 11,
+        "title": "Wooting 60HE",
+        "model": 2026,
+        "price": 2899,
+        "color": "Black",
+        "imageUrl": "https://mechanicalkeyboards.com/cdn/shop/files/22138-HDARB-Wooting-60HE.jpg?v=1721058249&width=750",
+        "description": "Analog mechanical keyboard with Lekker switches, adjustable actuation points, and rapid trigger technology"
+    },
+    {
+        "id": 12,
+        "title": "Drop CTRL High-Profile",
+        "model": 2026,
+        "price": 2699,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/71J1sf0vr3L.jpg",
+        "description": "TKL mechanical keyboard with hot-swappable switches, aluminum case, and customizable RGB lighting"
+    },
+    {
+        "id": 13,
+        "title": "Mountain Everest Max",
+        "model": 2026,
+        "price": 3199,
+        "color": "Black",
+        "imageUrl": "https://store974.com/cdn/shop/products/NewProject-2021-10-24T134210.844-828473.jpg?crop=center&height=1000&v=1637713099&width=1000",
+        "description": "Modular mechanical keyboard with detachable numpad, hot-swappable switches, and OLED display"
+    },
+    {
+        "id": 14,
+        "title": "Cooler Master SK622",
+        "model": 2026,
+        "price": 1999,
+        "color": "White",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jp-qwSdSL._AC_UF894,1000_QL80_.jpg",
+        "description": "Wireless low-profile mechanical keyboard with Cherry MX low-profile switches and compact 65% layout"
+    },
+    {
+        "id": 15,
+        "title": "Akko 5075B Plus",
+        "model": 2026,
+        "price": 1699,
+        "color": "Purple",
+        "imageUrl": "https://ecommerce.datablitz.com.ph/cdn/shop/files/gmncgj_h_1024x.jpg?v=1767672567",
+        "description": "75% mechanical keyboard with gasket mount, hot-swappable switches, and PBT keycaps with unique colorways"
+    },
+    {
+        "id": 16,
+        "title": "NuPhy Air75 V2",
+        "model": 2026,
+        "price": 1899,
+        "color": "White",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LXgPwdMEL._AC_UF894,1000_QL80_.jpg",
+        "description": "Wireless low-profile mechanical keyboard with Gateron switches, 4000mAh battery, and Mac/Windows compatibility"
+    },
+    {
+        "id": 17,
+        "title": "Epomaker TH80 Pro",
+        "model": 2026,
+        "price": 1599,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/41gn3VjWspL.jpg",
+        "description": "75% mechanical keyboard with gasket mount, hot-swappable switches, and knob control for volume"
+    },
+    {
+        "id": 18,
+        "title": "Royal Kludge RK84",
+        "model": 2026,
+        "price": 1399,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/124d633f8ea7ca7261dc82d719f7690d-hi.jpg",
+        "description": "Wireless mechanical keyboard with hot-swappable switches, 75% layout, and RGB backlighting"
+    },
+    {
+        "id": 19,
+        "title": "Leopold FC750R",
+        "model": 2026,
+        "price": 2299,
+        "color": "Gray",
+        "imageUrl": "https://mechanicalkeyboards.com/cdn/shop/files/3972-HY74W-FC750R-GreyBlue-PD.jpg?v=1708470378",
+        "description": "TKL mechanical keyboard with Cherry MX switches, PBT keycaps, and excellent build quality for typing"
+    },
+    {
+        "id": 20,
+        "title": "Varmilo VA87M",
+        "model": 2026,
+        "price": 2099,
+        "color": "Pink",
+        "imageUrl": "https://mechanicalkeyboards.com/cdn/shop/files/8280_63ae02071ee48_VED87-Sakura.jpg?v=1707270314",
+        "description": "TKL mechanical keyboard with Cherry MX switches, dye-sublimated PBT keycaps, and elegant design"
+    }
+]

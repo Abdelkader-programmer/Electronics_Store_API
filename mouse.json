@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Logitech G Pro X Superlight 2",
+        "model": 2026,
+        "price": 1999,
+        "color": "White",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ykKLbddNL.jpg",
+        "description": "Ultra-lightweight wireless gaming mouse with HERO 2 sensor, 2000Hz polling rate, and 63g weight"
+    },
+    {
+        "id": 2,
+        "title": "Razer Viper V3 Pro",
+        "model": 2026,
+        "price": 2199,
+        "color": "Black",
+        "imageUrl": "https://cdn.salla.sa/dPdEpd/fef77a33-a342-4f87-b916-f85f7bf732df-1000x800-hII8UwKS5M9MNAeZC3JPS8HuCMx04WxR07wYTRSP.png",
+        "description": "Wireless gaming mouse with Focus Pro 35K optical sensor, 4000Hz polling rate, and 55g weight"
+    },
+    {
+        "id": 3,
+        "title": "SteelSeries Aerox 5 Wireless",
+        "model": 2026,
+        "price": 1799,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Ibl7dJyUL._AC_UF894,1000_QL80_.jpg",
+        "description": "Honeycomb shell wireless gaming mouse with Quantum 2.0 wireless, 9 programmable buttons, and RGB lighting"
+    },
+    {
+        "id": 4,
+        "title": "ASUS ROG Harpe Ace Aim Lab Edition",
+        "model": 2026,
+        "price": 2399,
+        "color": "White",
+        "imageUrl": "https://cdn.cs.1worldsync.com/34/7a/347a69d8-2ff7-42c2-ad2b-a8a9e24446ab.jpg",
+        "description": "Esports gaming mouse co-designed with Aim Lab, ROG AimPoint Pro sensor, and 54g lightweight design"
+    },
+    {
+        "id": 5,
+        "title": "Glorious Model O 2 Wireless",
+        "model": 2026,
+        "price": 1499,
+        "color": "Matte Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/714yWnehRqL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Wireless honeycomb gaming mouse with BAMF 2.0 sensor, 1000Hz polling rate, and 67g weight"
+    },
+    {
+        "id": 6,
+        "title": "Corsair M75 Wireless",
+        "model": 2026,
+        "price": 1699,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/41KY95a0qqL._AC_UF894,1000_QL80_.jpg",
+        "description": "Ambidextrous wireless gaming mouse with MARKSMAN 26K sensor, SLIPSTREAM wireless, and 60g weight"
+    },
+    {
+        "id": 7,
+        "title": "Razer DeathAdder V3 Pro",
+        "model": 2026,
+        "price": 1899,
+        "color": "White",
+        "imageUrl": "https://img.overclockers.co.uk/images/KB-153-RA/77cc175b7cb16235862ee6966ebfc10d.jpg",
+        "description": "Ergonomic wireless gaming mouse with Focus Pro 30K sensor, 4000Hz polling rate, and 63g weight"
+    },
+    {
+        "id": 8,
+        "title": "Logitech MX Master 3S",
+        "model": 2026,
+        "price": 1599,
+        "color": "Graphite",
+        "imageUrl": "https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad,format=webp,quality=70/images/000000000001196058_1?1703621522",
+        "description": "Productivity mouse with MagSpeed scroll wheel, 8K DPI sensor, and multi-device connectivity"
+    },
+    {
+        "id": 9,
+        "title": "HyperX Pulsefire Haste 2 Wireless",
+        "model": 2026,
+        "price": 1399,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QPXQvpVTL._AC_UF350,350_QL80_.jpg",
+        "description": "Wireless gaming mouse with Pixart 3395 sensor, honeycomb shell, and 61g lightweight design"
+    },
+    {
+        "id": 10,
+        "title": "Finalmouse Starlight-12 TenZ Edition",
+        "model": 2026,
+        "price": 2999,
+        "color": "Red",
+        "imageUrl": "https://image.goxip.com/8XH2KgcsMIt9Zw6Od4QwUud5VkI=/fit-in/500x500/filters:format(jpg):quality(80):fill(white)/https:%2F%2Fimages.stockx.com%2Fimages%2FFinalmouse-Starlight-12-Wireless-Mouse-Small-Ares.jpg",
+        "description": "Limited edition magnesium alloy gaming mouse with 43g weight and designed with pro player TenZ"
+    },
+    {
+        "id": 11,
+        "title": "Roccat Kone Pro Air",
+        "model": 2026,
+        "price": 1299,
+        "color": "Black",
+        "imageUrl": "https://quantum.ps/wp-content/uploads/2025/04/LD0005825495_1.jpg",
+        "description": "Ergonomic wireless gaming mouse with Owl-Eye 19K sensor, Titan Switch Optical, and 75g weight"
+    },
+    {
+        "id": 12,
+        "title": "ASUS ROG Keris II Ace",
+        "model": 2026,
+        "price": 1799,
+        "color": "White",
+        "imageUrl": "https://m.media-amazon.com/images/I/61elP-s8QdL._AC_UF350,350_QL80_.jpg",
+        "description": "Wireless gaming mouse with ROG AimPoint 36K sensor, hot-swappable switches, and 54g weight"
+    },
+    {
+        "id": 13,
+        "title": "Cooler Master MM712 Wireless",
+        "model": 2026,
+        "price": 1199,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/81gZ55RudgL._AC_UF894,1000_QL80_.jpg",
+        "description": "Wireless gaming mouse with Pixart 3395 sensor, honeycomb shell, and 59g lightweight design"
+    },
+    {
+        "id": 14,
+        "title": "Zowie EC2-CW",
+        "model": 2026,
+        "price": 1699,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xzWJA9HOL._AC_UF894,1000_QL80_.jpg",
+        "description": "Wireless ergonomic gaming mouse with 3370 sensor, designed for competitive FPS gaming"
+    },
+    {
+        "id": 15,
+        "title": "Pulsar X2V2 Mini",
+        "model": 2026,
+        "price": 1499,
+        "color": "White",
+        "imageUrl": "https://www.studioctrl.ch/10011-home_default/pulsar-x2-v2-wireless-white-mini-size-1.jpg",
+        "description": "Mini wireless gaming mouse with PAW 3395 sensor, 2000Hz polling rate, and 52g weight"
+    },
+    {
+        "id": 16,
+        "title": "Vaxee XE Wireless",
+        "model": 2026,
+        "price": 1899,
+        "color": "Black",
+        "imageUrl": "https://image.makewebeasy.net/makeweb/m_1920x0/z5GuKv5QW/XEWireless/1674036526949167470.jpg?v=202405291424",
+        "description": "Wireless ambidextrous gaming mouse with 3370 sensor, 1000Hz polling rate, and 76g weight"
+    },
+    {
+        "id": 17,
+        "title": "Endgame Gear XM2we",
+        "model": 2026,
+        "price": 1399,
+        "color": "Dark Frost",
+        "imageUrl": "https://m.media-amazon.com/images/I/61T2EwUSWlL._AC_UF894,1000_QL80_.jpg",
+        "description": "Wireless gaming mouse with PAW 3395 sensor, Kailh GM 8.0 switches, and 63g weight"
+    },
+    {
+        "id": 18,
+        "title": "Lamzu Atlantis Mini",
+        "model": 2026,
+        "price": 1299,
+        "color": "Pink",
+        "imageUrl": "https://cdn.mwave.com.au/images/400/lamzu_atlantis_mini_champion_edition_8k_wireless_optical_gaming_mouse_light_pink_ac88263_85782.jpg",
+        "description": "Mini wireless gaming mouse with PAW 3395 sensor, Nordic 52840 MCU, and 49g weight"
+    },
+    {
+        "id": 19,
+        "title": "Ninjutso Sora 4K",
+        "model": 2026,
+        "price": 1599,
+        "color": "Black",
+        "imageUrl": "https://divinikey.com/cdn/shop/products/ninjutso-sora-4k-superlight-gaming-mouse-695052.webp?v=1705097047&width=1214",
+        "description": "Wireless gaming mouse with PAW 3395 sensor, 4000Hz polling rate, and 45g weight"
+    },
+    {
+        "id": 20,
+        "title": "Gwolves HTS Plus 4K",
+        "model": 2026,
+        "price": 1699,
+        "color": "Blue",
+        "imageUrl": "https://shop.g-wolves.com/cdn/shop/files/3.85.png?v=1733828368&width=1200",
+        "description": "Wireless gaming mouse with PAW 3370 sensor, 4000Hz polling rate, and 59g weight"
+    }
+]

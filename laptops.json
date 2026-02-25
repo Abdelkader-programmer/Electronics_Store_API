@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Dell XPS 15 2026",
+        "model": 2026,
+        "price": 45999,
+        "color": "Silver",
+        "imageUrl": "https://www.jktgadget.com/wp-content/uploads/2023/07/DELL-XPS-15-9530-2.jpg",
+        "description": "Professional laptop with 15-inch OLED display and Intel Core i9 processor, perfect for designers and developers"
+    },
+    {
+        "id": 2,
+        "title": "MacBook Pro 16 2026",
+        "model": 2026,
+        "price": 74999,
+        "color": "Space Gray",
+        "imageUrl": "https://p.turbosquid.com/ts-thumb/QN/IpRhYK/XJ/applemacbookpro16inchspacegreymb3dmodel001/jpg/1645092827/1920x1080/fit_q87/4498c71d2c63a914e266740b1f1822101455bb9a/applemacbookpro16inchspacegreymb3dmodel001.jpg",
+        "description": "Apple's flagship laptop with M3 Max chip, 16.2-inch Liquid Retina XDR display, and 64GB RAM"
+    },
+    {
+        "id": 3,
+        "title": "HP Spectre x360 16",
+        "model": 2026,
+        "price": 38999,
+        "color": "Nightfall Black",
+        "imageUrl": "https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/0/3/035df79e4c32cce655f194bb216f1aa8-hi_pbxnrhzlczv962bt.jpg?format=webp&width=700",
+        "description": "2-in-1 convertible laptop with 360-degree hinge, OLED touchscreen, and Intel Evo platform"
+    },
+    {
+        "id": 4,
+        "title": "Lenovo ThinkPad X1 Carbon Gen 12",
+        "model": 2026,
+        "price": 41999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/617ymkVAofL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Ultra-light business laptop with military-grade durability and best-in-class keyboard"
+    },
+    {
+        "id": 5,
+        "title": "ASUS ROG Zephyrus G16",
+        "model": 2026,
+        "price": 52999,
+        "color": "Eclipse Gray",
+        "imageUrl": "https://static01.galaxus.com/productimages/7/9/3/9/4/5/0/2/7/2/6/7/5/1/1/2/0/1/9/12d67a46-af01-4347-b8e2-35c62cb722d0_cropped.png_720.jpeg",
+        "description": "Gaming laptop with NVIDIA RTX 4070, Intel Core i9, and 240Hz QHD+ display"
+    },
+    {
+        "id": 6,
+        "title": "Microsoft Surface Laptop Studio 2",
+        "model": 2026,
+        "price": 46999,
+        "color": "Platinum",
+        "imageUrl": "https://m.media-amazon.com/images/I/71gYWkOXnLL._AC_UF894,1000_QL80_.jpg",
+        "description": "Versatile laptop with dynamic woven hinge, touchscreen, and NVIDIA RTX 4060"
+    },
+    {
+        "id": 7,
+        "title": "Razer Blade 16",
+        "model": 2026,
+        "price": 61999,
+        "color": "Mercury White",
+        "imageUrl": "https://www.bhphotovideo.com/images/fb/razer_rz09_0510tem4_r3u1_razer_blade_16_s10_nt_win_11_dual_1804307.jpg",
+        "description": "Premium gaming laptop with dual-mode mini-LED display and RTX 4090 graphics"
+    },
+    {
+        "id": 8,
+        "title": "Acer Swift Edge 16",
+        "model": 2026,
+        "price": 32999,
+        "color": "Safari Gold",
+        "imageUrl": "https://hnau.imgix.net/media/catalog/product/a/c/acer-swift-16-ai-sf16-51t-with-fingerprint-with-backlit-wp-oled-logo-gold-black-02_1.jpg?auto=compress&auto=format&fill-color=FFFFFF&fit=fill&fill=solid&w=992&h=558",
+        "description": "Ultra-thin and light laptop with 16-inch OLED display and AMD Ryzen 7 processor"
+    },
+    {
+        "id": 9,
+        "title": "MSI Titan 18 HX",
+        "model": 2026,
+        "price": 69999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AH6SsNl7L._AC_UF894,1000_QL80_.jpg",
+        "description": "Desktop replacement gaming laptop with 18-inch 4K display and Intel Core i9-14900HX"
+    },
+    {
+        "id": 10,
+        "title": "LG Gram 17",
+        "model": 2026,
+        "price": 35999,
+        "color": "Obsidian Black",
+        "imageUrl": "https://www.lg.com/ae_ar/images/consumer-monitors/MD07534318/D-10.jpg",
+        "description": "World's lightest 17-inch laptop with all-day battery life and Intel Evo certification"
+    },
+    {
+        "id": 11,
+        "title": "Alienware m18 R2",
+        "model": 2026,
+        "price": 65999,
+        "color": "Lunar Silver",
+        "imageUrl": "https://laptopmedia.com/wp-content/uploads/2024/01/2-80-scaled-e1705074626262.jpg",
+        "description": "Extreme gaming laptop with 18-inch display, Cherry MX keyboard, and Cryo-Tech cooling"
+    },
+    {
+        "id": 12,
+        "title": "Framework Laptop 16",
+        "model": 2026,
+        "price": 37999,
+        "color": "Matte Black",
+        "imageUrl": "https://images.prismic.io/frameworkmarketplace/5896b4da-ae17-4f5d-83b8-98eb8e6f46cc_Introducing+the+Framework+Laptop+16.png?auto=compress,format",
+        "description": "Modular and repairable laptop with swappable ports, keyboard, and GPU modules"
+    },
+    {
+        "id": 13,
+        "title": "Samsung Galaxy Book4 Ultra",
+        "model": 2026,
+        "price": 44999,
+        "color": "Moonstone Gray",
+        "imageUrl": "https://static.helixbeta.com/prod/707/0231/707_709620231_02?imwidth=320",
+        "description": "AI-powered laptop with AMOLED display, Intel Core Ultra 9, and Galaxy ecosystem integration"
+    },
+    {
+        "id": 14,
+        "title": "HP Omen Transcend 16",
+        "model": 2026,
+        "price": 48999,
+        "color": "Mica Silver",
+        "imageUrl": "https://egyptlaptop.com/images/detailed/81/hp_gaming_laptop_omen.webp",
+        "description": "Slim gaming laptop with RGB lighting, 240Hz display, and Omen Tempest cooling"
+    },
+    {
+        "id": 15,
+        "title": "Lenovo Legion Pro 7i",
+        "model": 2026,
+        "price": 53999,
+        "color": "Storm Grey",
+        "imageUrl": "https://microless.com/cdn/products/11bbdcaf6da19c7a4f97206fa74e150b-hi.jpg",
+        "description": "Performance gaming laptop with Lenovo LA-2 AI chip and PureSight Pro display"
+    },
+    {
+        "id": 16,
+        "title": "ASUS Zenbook Pro 16X",
+        "model": 2026,
+        "price": 47999,
+        "color": "Celestial Blue",
+        "imageUrl": "https://elisys.ru/image/cache/catalog/notebook/asus/90nb10k1-m001f0/90nb10k1-m001f0-500x500.jpeg",
+        "description": "Creator laptop with ASUS Dial, 3.2K OLED display, and NVIDIA Studio drivers"
+    },
+    {
+        "id": 17,
+        "title": "Dell Alienware x16 R2",
+        "model": 2026,
+        "price": 58999,
+        "color": "Lunar Light",
+        "imageUrl": "https://compulogic.net/cdn/shop/files/AW16R2-9517SLV-PUS.3.jpg?v=1749894072&width=1946",
+        "description": "Slim gaming laptop with 16-inch QHD+ display, AlienFX lighting, and Dolby Atmos"
+    },
+    {
+        "id": 18,
+        "title": "Apple MacBook Air 15",
+        "model": 2026,
+        "price": 34999,
+        "color": "Midnight",
+        "imageUrl": "https://macfinder.co.uk/wp-content/uploads/2023/07/img-MacBook-Air-13-Inch-97318-scaled.jpg",
+        "description": "Thin and light laptop with M3 chip, 15.3-inch Liquid Retina display, and 18-hour battery"
+    },
+    {
+        "id": 19,
+        "title": "Microsoft Surface Laptop 6",
+        "model": 2026,
+        "price": 32999,
+        "color": "Sage",
+        "imageUrl": "https://hnau.imgix.net/media/catalog/product/s/u/surface-laptop-5-sage-5_1.jpg",
+        "description": "Business laptop with Copilot+ AI features, haptic touchpad, and all-day battery"
+    },
+    {
+        "id": 20,
+        "title": "Acer Predator Helios 18",
+        "model": 2026,
+        "price": 56999,
+        "color": "Abyssal Black",
+        "imageUrl": "https://capmiddleast.com/cdn/shop/files/ACER-PREDATOR-HELIOS-18-GAMING-LAPTOP-18-2560-X-1600-IPS-240HZ_INTEL-I9-14900HX_GEFORCE-RTX-4090-32GB-DDR5-1TB-SSD-ABYSSAL-BLACK-WIN-11-slant-view-PH18-72-924C.png?v=1724153175&width=1000",
+        "description": "Gaming laptop with 18-inch mini-LED display, 5th Gen AeroBlade fans, and MagKey 3.0"
+    }
+]

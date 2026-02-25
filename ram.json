@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Corsair Dominator Platinum RGB DDR5 64GB",
+        "model": 2026,
+        "price": 3999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zEFLjQxOL._AC_UF894,1000_QL80_.jpg",
+        "description": "64GB (2x32GB) DDR5 7200MHz CL34 RGB memory with DHX cooling and iCUE control"
+    },
+    {
+        "id": 2,
+        "title": "G.Skill Trident Z5 RGB DDR5 32GB",
+        "model": 2026,
+        "price": 2299,
+        "color": "Silver",
+        "imageUrl": "https://www.jumbo-computer.com/cdn/shop/files/173613287015_800x.webp?v=1742311435",
+        "description": "32GB (2x16GB) DDR5 6400MHz CL32 RGB memory with aluminum heat spreader"
+    },
+    {
+        "id": 3,
+        "title": "Kingston Fury Beast DDR5 16GB",
+        "model": 2026,
+        "price": 1299,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/611n3F+AQJL._AC_UF894,1000_QL80_.jpg",
+        "description": "16GB (2x8GB) DDR5 6000MHz CL36 memory with low-profile heat spreader"
+    },
+    {
+        "id": 4,
+        "title": "TeamGroup T-Force Delta RGB DDR5 64GB",
+        "model": 2026,
+        "price": 3499,
+        "color": "White",
+        "imageUrl": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-alpha-rgb/white/dual_01.jpg",
+        "description": "64GB (2x32GB) DDR5 6800MHz CL34 RGB memory with full-color LED lighting"
+    },
+    {
+        "id": 5,
+        "title": "Crucial Pro DDR5 32GB",
+        "model": 2026,
+        "price": 1899,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EUuA9HiaL.jpg",
+        "description": "32GB (2x16GB) DDR5 5600MHz CL46 memory with JEDEC standard specifications"
+    },
+    {
+        "id": 6,
+        "title": "ADATA XPG Lancer RGB DDR5 64GB",
+        "model": 2026,
+        "price": 3699,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/dbc8a061318e4d21abc6ec3b0bbfcf90-hi.jpg",
+        "description": "64GB (2x32GB) DDR5 7000MHz CL34 RGB memory with asymmetric design"
+    },
+    {
+        "id": 7,
+        "title": "Patriot Viper Venom DDR5 32GB",
+        "model": 2026,
+        "price": 1999,
+        "color": "Black",
+        "imageUrl": "https://www.abcshop-eg.com/web/image/product.image/10731/image_1024/Patriot%20Viper%20Venom%20DDR5%20RAM%2032GB%20%282X16GB%29%206400MHz%20CL32%20%284%29.webp?unique=007d309",
+        "description": "32GB (2x16GB) DDR5 6200MHz CL36 memory with black aluminum heat spreader"
+    },
+    {
+        "id": 8,
+        "title": "OLOy Blade RGB DDR5 16GB",
+        "model": 2026,
+        "price": 1199,
+        "color": "Black",
+        "imageUrl": "https://storage.hawranj.com/images/10_29_2025__8_20_44_AM_5235.webp",
+        "description": "16GB (2x8GB) DDR5 6000MHz CL36 RGB memory with dual-tone design"
+    },
+    {
+        "id": 9,
+        "title": "Silicon Power Zenith DDR5 64GB",
+        "model": 2026,
+        "price": 3199,
+        "color": "Black",
+        "imageUrl": "https://images-cdn.ubuy.co.in/67d04551f68b085f3a330f5b-silicon-power-ddr5-64gb-2x32gb-zenith.jpg",
+        "description": "64GB (2x32GB) DDR5 6600MHz CL34 memory with heat dissipation fins"
+    },
+    {
+        "id": 10,
+        "title": "PNY XLR8 Gaming DDR5 32GB",
+        "model": 2026,
+        "price": 1799,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/2d2dc6bf7d694c68a52c93c6e02df722-hi.jpg",
+        "description": "32GB (2x16GB) DDR5 6000MHz CL36 memory with X-shaped heat spreader"
+    }
+]

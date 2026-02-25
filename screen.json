@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Samsung Odyssey G9 Neo",
+        "model": 2026,
+        "price": 18999,
+        "color": "Black",
+        "imageUrl": "https://elyamamastore.com/cdn/shop/files/Samsung-Odyssey-OLED-G9-49-Inch-Curved-Gaming-Monitor-144Hz-Elyamama-37772483526887.avif?v=1764074122&width=1000",
+        "description": "49-inch super ultrawide curved gaming monitor with 240Hz refresh rate and Quantum Mini-LED technology"
+    },
+    {
+        "id": 2,
+        "title": "LG UltraGear OLED 45GR95QE",
+        "model": 2026,
+        "price": 15999,
+        "color": "Black",
+        "imageUrl": "https://media.us.lg.com/transform/ecomm-PDPGallery-1100x730/f9666e27-6406-4eac-8f5c-fc73973d08f7/md08003490-DZ-02?io=transform:fill,width:1536",
+        "description": "45-inch curved OLED gaming monitor with 240Hz refresh rate and 0.03ms response time"
+    },
+    {
+        "id": 3,
+        "title": "Dell UltraSharp U4323QE",
+        "model": 2026,
+        "price": 12999,
+        "color": "Silver",
+        "imageUrl": "https://www.dellonline.ae/cdn/shop/files/d96a0409-a8f3-469d-94e5-3e175e11f174-2.jpg?v=1740395528&width=1214",
+        "description": "43-inch 4K USB-C Hub monitor with IPS Black technology and 99% DCI-P3 color coverage"
+    },
+    {
+        "id": 4,
+        "title": "ASUS ROG Swift PG32UQX",
+        "model": 2026,
+        "price": 24999,
+        "color": "Black",
+        "imageUrl": "https://i.ebayimg.com/images/g/JfYAAOSwQbdk~BfQ/s-l1200.jpg",
+        "description": "32-inch 4K gaming monitor with Mini-LED backlight, 144Hz refresh rate, and NVIDIA G-SYNC Ultimate"
+    },
+    {
+        "id": 5,
+        "title": "Apple Pro Display XDR Nano-texture",
+        "model": 2026,
+        "price": 29999,
+        "color": "Space Gray",
+        "imageUrl": "https://powermaccenter.com/cdn/shop/files/A012000x2000_9862b259-fb25-4e27-bc9a-5809786cbc3e.jpg?v=1691109884&width=1445",
+        "description": "32-inch Retina 6K display with extreme dynamic range and nano-texture glass for professional workflows"
+    },
+    {
+        "id": 6,
+        "title": "Alienware AW3423DWF",
+        "model": 2026,
+        "price": 13999,
+        "color": "Lunar Light",
+        "imageUrl": "https://s13emagst.akamaized.net/products/45365/45364948/images/res_17f4069cc2751874852146d737dc7202.jpg",
+        "description": "34-inch QD-OLED curved gaming monitor with 165Hz refresh rate and infinite contrast ratio"
+    },
+    {
+        "id": 7,
+        "title": "MSI MPG Artymis 343CQR",
+        "model": 2026,
+        "price": 11999,
+        "color": "Black",
+        "imageUrl": "https://www.bhphotovideo.com/images/fb/msi_optixmpg343cqr_optix_mpg_artymis_343cqr_1646598.jpg",
+        "description": "34-inch curved gaming monitor with 1000R curvature, 165Hz refresh rate, and RGB lighting"
+    },
+    {
+        "id": 8,
+        "title": "Acer Predator X38 S",
+        "model": 2026,
+        "price": 17999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hninIlYuL.jpg",
+        "description": "38-inch ultrawide gaming monitor with 175Hz refresh rate, NVIDIA G-SYNC, and VESA DisplayHDR 600"
+    },
+    {
+        "id": 9,
+        "title": "Gigabyte M32UC",
+        "model": 2026,
+        "price": 10999,
+        "color": "Black",
+        "imageUrl": "https://cdn.salla.sa/KOPVE/ZvPFam0oxdmkLmpUVTp5rMN2RMneNDYyItuYGq9Q.png",
+        "description": "32-inch 4K gaming monitor with 144Hz refresh rate, SS IPS panel, and built-in KVM switch"
+    },
+    {
+        "id": 10,
+        "title": "ViewSonic Elite XG321UG",
+        "model": 2026,
+        "price": 22999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be4eb879-4986-466a-bcb1-1be0b51339a6.__CR0,0,1000,1000_PT0_SX300_V1___.jpg",
+        "description": "32-inch 4K Mini-LED gaming monitor with 144Hz refresh rate and NVIDIA Reflex Analyzer"
+    },
+    {
+        "id": 11,
+        "title": "HP Omen 27c",
+        "model": 2026,
+        "price": 9999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/81kWcILYp4L._AC_UF894,1000_QL80_.jpg",
+        "description": "27-inch curved gaming monitor with 240Hz refresh rate, 1000R curvature, and AMD FreeSync Premium Pro"
+    },
+    {
+        "id": 12,
+        "title": "BenQ Mobiuz EX3210U",
+        "model": 2026,
+        "price": 14999,
+        "color": "White",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wufNudf7L._AC_UF894,1000_QL80_.jpg",
+        "description": "32-inch 4K gaming monitor with 144Hz refresh rate, HDRi technology, and built-in 2.1-channel speakers"
+    },
+    {
+        "id": 13,
+        "title": "Corsair Xeneon 32UHD144",
+        "model": 2026,
+        "price": 13999,
+        "color": "Black",
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/mU8haJmXM54TLJntWC3Rti.jpg",
+        "description": "32-inch 4K gaming monitor with 144Hz refresh rate, quantum dot technology, and Corsair iCUE integration"
+    },
+    {
+        "id": 14,
+        "title": "Razer Raptor 27",
+        "model": 2026,
+        "price": 12999,
+        "color": "Black",
+        "imageUrl": "https://sm.pcmag.com/pcmag_au/review/r/razer-rapt/razer-raptor-27_q84a.jpg",
+        "description": "27-inch gaming monitor with 165Hz refresh rate, THX certification, and Chroma RGB lighting"
+    },
+    {
+        "id": 15,
+        "title": "Philips Evnia 5000",
+        "model": 2026,
+        "price": 11999,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/26d15ef06b5462736c7ca3b273ffaa8f-hi.jpg",
+        "description": "34-inch curved gaming monitor with 165Hz refresh rate, Ambiglow lighting, and USB-C connectivity"
+    },
+    {
+        "id": 16,
+        "title": "Lenovo Legion Y34wz-30",
+        "model": 2026,
+        "price": 15999,
+        "color": "Storm Grey",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Z8h7oHPSL.jpg",
+        "description": "34-inch ultrawide gaming monitor with 165Hz refresh rate, Mini-LED backlight, and Lenovo PureSight display"
+    },
+    {
+        "id": 17,
+        "title": "AOC Agon Pro AG274QXM",
+        "model": 2026,
+        "price": 16999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/81fPadwTxyL.jpg",
+        "description": "27-inch gaming monitor with 240Hz refresh rate, Mini-LED technology, and G-SYNC Ultimate certification"
+    },
+    {
+        "id": 18,
+        "title": "NZXT Canvas 32Q Curved",
+        "model": 2026,
+        "price": 10999,
+        "color": "White",
+        "imageUrl": "https://compress.ru/img/post/2022/07/19/nzxt-canvas-32q-curved.jpg",
+        "description": "32-inch curved gaming monitor with 165Hz refresh rate, QHD resolution, and NZXT CAM software integration"
+    },
+    {
+        "id": 19,
+        "title": "Cooler Master Tempest GP27Q",
+        "model": 2026,
+        "price": 11999,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/71DcvohA0lL.jpg",
+        "description": "27-inch gaming monitor with 165Hz refresh rate, Mini-LED backlight, and Quantum Dot technology"
+    },
+    {
+        "id": 20,
+        "title": "Sceptre C355W-3440UN",
+        "model": 2026,
+        "price": 8999,
+        "color": "Black",
+        "imageUrl": "https://www.sceptre.com/image/cache/data/product_gallery/1176-C355W-3440UN/slide01-1500x1044.jpg",
+        "description": "35-inch curved ultrawide monitor with 100Hz refresh rate, built-in speakers, and multiple connectivity options"
+    }
+]

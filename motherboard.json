@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "ASUS ROG Maximus Z790 Extreme",
+        "model": 2026,
+        "price": 8999,
+        "color": "Black",
+        "imageUrl": "https://www.guru3d.com/data/publish/221/ab56bad7afa1838ad4911864cc012b55a34cc3/img_0626.jpg",
+        "description": "Intel Z790 flagship motherboard with 24+2 phase power delivery, Thunderbolt 4, and OLED display"
+    },
+    {
+        "id": 2,
+        "title": "Gigabyte X670E AORUS Xtreme",
+        "model": 2026,
+        "price": 8499,
+        "color": "Black",
+        "imageUrl": "https://microless.com/cdn/products/1c54ef8b54ce90b34374d7686f113442-hi.jpg",
+        "description": "AMD X670E flagship motherboard with 20+2+2 phase VRM, PCIe 5.0 x16, and 10GbE LAN"
+    },
+    {
+        "id": 3,
+        "title": "MSI MEG Z790 Godlike",
+        "model": 2026,
+        "price": 9999,
+        "color": "Black",
+        "imageUrl": "https://files.pccasegear.com/images/MEG-Z790-GODLIKE-add1.jpg",
+        "description": "Intel Z790 premium motherboard with 26+2 phase VRM, M.2 XPANDER-Z Gen5, and 10G Super LAN"
+    },
+    {
+        "id": 4,
+        "title": "ASRock X670E Taichi Carrara",
+        "model": 2026,
+        "price": 7999,
+        "color": "White",
+        "imageUrl": "https://statics.qloud.com.ar/hypergaming-01-2020/117_09-11-2022-06-11-43-x670e-taichi-carrara3.png",
+        "description": "AMD X670E motherboard with 24+2+1 phase power, PCIe 5.0 support, and marble design"
+    },
+    {
+        "id": 5,
+        "title": "ASUS TUF Gaming B760-PLUS",
+        "model": 2026,
+        "price": 3499,
+        "color": "Black",
+        "imageUrl": "https://m.media-amazon.com/images/I/71YvqUQWZ3L._AC_UF350,350_QL80_.jpg",
+        "description": "Intel B760 mid-range motherboard with 12+1 DrMOS power stages and military-grade components"
+    },
+    {
+        "id": 6,
+        "title": "Gigabyte B650 AORUS Elite AX",
+        "model": 2026,
+        "price": 3299,
+        "color": "Black",
+        "imageUrl": "https://www.vortez.net/articles_file/46418_b650%20aorus%20elite%20ax%20review%20intro.jpg",
+        "description": "AMD B650 motherboard with 16+2+2 phase VRM, WiFi 6E, and PCIe 5.0 M.2 slot"
+    },
+    {
+        "id": 7,
+        "title": "MSI PRO Z790-A WiFi",
+        "model": 2026,
+        "price": 3999,
+        "color": "White",
+        "imageUrl": "https://www.cclonline.com/images/avante/PRO-Z790-A-MAX-WIFI-02.png?width=1600&height=1600&scale=canvas&format=jpg&trim.threshold=80",
+        "description": "Intel Z790 motherboard with 16+1+1 phase power, DDR5 boost, and Lightning Gen5 solution"
+    },
+    {
+        "id": 8,
+        "title": "ASRock B650M PG Riptide",
+        "model": 2026,
+        "price": 2499,
+        "color": "Black",
+        "imageUrl": "https://pcinq.com/wp-content/uploads/2024/03/ASRock_B650M-PG-Riptide_Top-1024x768.webp",
+        "description": "Micro-ATX AMD B650 motherboard with 14+2+1 phase power design and 2.5GbE LAN"
+    },
+    {
+        "id": 9,
+        "title": "ASUS Prime Z790-P WiFi",
+        "model": 2026,
+        "price": 2999,
+        "color": "Black",
+        "imageUrl": "https://uk.store.asus.com/media/catalog/product/9/0/90mb1ck0-m0eay0-1.jpg?width=1000&height=450&store=en_UK&image-type=image",
+        "description": "Intel Z790 entry-level motherboard with 14+1 DrMOS power stages and comprehensive cooling"
+    },
+    {
+        "id": 10,
+        "title": "Gigabyte Z690 AORUS Master",
+        "model": 2026,
+        "price": 4999,
+        "color": "Black",
+        "imageUrl": "https://ericu4nqb6z.exactdn.com/wp-content/uploads/2021/12/aorus-z690-master-review7.jpg?strip=all",
+        "description": "Intel Z690 motherboard with 20+1+2 phase VRM, PCIe 5.0, and direct touch heat pipe"
+    }
+]
