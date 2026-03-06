@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 31,
         "title": "ASUS ROG Maximus Z790 Extreme",
         "model": 2026,
         "price": 8999,
@@ -9,7 +9,7 @@
         "description": "Intel Z790 flagship motherboard with 24+2 phase power delivery, Thunderbolt 4, and OLED display"
     },
     {
-        "id": 2,
+        "id": 32,
         "title": "Gigabyte X670E AORUS Xtreme",
         "model": 2026,
         "price": 8499,
@@ -18,7 +18,7 @@
         "description": "AMD X670E flagship motherboard with 20+2+2 phase VRM, PCIe 5.0 x16, and 10GbE LAN"
     },
     {
-        "id": 3,
+        "id": 33,
         "title": "MSI MEG Z790 Godlike",
         "model": 2026,
         "price": 9999,
@@ -27,7 +27,7 @@
         "description": "Intel Z790 premium motherboard with 26+2 phase VRM, M.2 XPANDER-Z Gen5, and 10G Super LAN"
     },
     {
-        "id": 4,
+        "id": 34,
         "title": "ASRock X670E Taichi Carrara",
         "model": 2026,
         "price": 7999,
@@ -36,7 +36,7 @@
         "description": "AMD X670E motherboard with 24+2+1 phase power, PCIe 5.0 support, and marble design"
     },
     {
-        "id": 5,
+        "id": 35,
         "title": "ASUS TUF Gaming B760-PLUS",
         "model": 2026,
         "price": 3499,
@@ -45,7 +45,7 @@
         "description": "Intel B760 mid-range motherboard with 12+1 DrMOS power stages and military-grade components"
     },
     {
-        "id": 6,
+        "id": 36,
         "title": "Gigabyte B650 AORUS Elite AX",
         "model": 2026,
         "price": 3299,
@@ -54,7 +54,7 @@
         "description": "AMD B650 motherboard with 16+2+2 phase VRM, WiFi 6E, and PCIe 5.0 M.2 slot"
     },
     {
-        "id": 7,
+        "id": 37,
         "title": "MSI PRO Z790-A WiFi",
         "model": 2026,
         "price": 3999,
@@ -63,7 +63,7 @@
         "description": "Intel Z790 motherboard with 16+1+1 phase power, DDR5 boost, and Lightning Gen5 solution"
     },
     {
-        "id": 8,
+        "id": 38,
         "title": "ASRock B650M PG Riptide",
         "model": 2026,
         "price": 2499,
@@ -72,7 +72,7 @@
         "description": "Micro-ATX AMD B650 motherboard with 14+2+1 phase power design and 2.5GbE LAN"
     },
     {
-        "id": 9,
+        "id": 39,
         "title": "ASUS Prime Z790-P WiFi",
         "model": 2026,
         "price": 2999,
@@ -81,7 +81,7 @@
         "description": "Intel Z790 entry-level motherboard with 14+1 DrMOS power stages and comprehensive cooling"
     },
     {
-        "id": 10,
+        "id": 40,
         "title": "Gigabyte Z690 AORUS Master",
         "model": 2026,
         "price": 4999,

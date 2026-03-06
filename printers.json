@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 151,
         "title": "HP OfficeJet Pro 9025e",
         "model": 2026,
         "price": 4499,
@@ -9,7 +9,7 @@
         "description": "All-in-one wireless printer with automatic document feeder, 2-sided printing, and HP Smart app"
     },
     {
-        "id": 2,
+        "id": 152,
         "title": "Epson EcoTank ET-8500",
         "model": 2026,
         "price": 6999,
@@ -18,7 +18,7 @@
         "description": "Wireless all-in-one printer with refillable ink tanks, 2-year ink supply, and A3+ printing capability"
     },
     {
-        "id": 3,
+        "id": 153,
         "title": "Canon PIXMA TR8620a",
         "model": 2026,
         "price": 3899,
@@ -27,7 +27,7 @@
         "description": "All-in-one printer with 5-color individual ink system, automatic document feeder, and wireless connectivity"
     },
     {
-        "id": 4,
+        "id": 154,
         "title": "Brother MFC-L8900CDW",
         "model": 2026,
         "price": 8999,
@@ -36,7 +36,7 @@
         "description": "Color laser all-in-one printer with 50-page automatic document feeder and wireless networking"
     },
     {
-        "id": 5,
+        "id": 155,
         "title": "Xerox VersaLink C7000",
         "model": 2026,
         "price": 12999,
@@ -45,7 +45,7 @@
         "description": "Color multifunction printer with touchscreen interface, cloud connectivity, and advanced security features"
     },
     {
-        "id": 6,
+        "id": 156,
         "title": "HP LaserJet Pro MFP M428fdw",
         "model": 2026,
         "price": 7999,
@@ -54,7 +54,7 @@
         "description": "Monochrome laser all-in-one printer with automatic duplex printing and wireless direct printing"
     },
     {
-        "id": 7,
+        "id": 157,
         "title": "Epson WorkForce Pro WF-7840",
         "model": 2026,
         "price": 10999,
@@ -63,7 +63,7 @@
         "description": "Wireless all-in-one printer with 250-sheet paper capacity and high-volume printing capability"
     },
     {
-        "id": 8,
+        "id": 158,
         "title": "Canon imageCLASS MF656Cdw",
         "model": 2026,
         "price": 8499,
@@ -72,7 +72,7 @@
         "description": "Color laser all-in-one printer with 5-inch touchscreen and mobile printing capabilities"
     },
     {
-        "id": 9,
+        "id": 159,
         "title": "Brother HL-L6400DW",
         "model": 2026,
         "price": 9999,
@@ -81,7 +81,7 @@
         "description": "Monochrome laser printer with 65 pages per minute printing speed and large paper capacity"
     },
     {
-        "id": 10,
+        "id": 160,
         "title": "Lexmark MC3326adwe",
         "model": 2026,
         "price": 7499,
@@ -90,7 +90,7 @@
         "description": "Color laser all-in-one printer with embedded security features and cloud connectivity"
     },
     {
-        "id": 11,
+        "id": 161,
         "title": "Ricoh IM C4500",
         "model": 2026,
         "price": 14999,
@@ -99,7 +99,7 @@
         "description": "A3 color multifunction printer with 10.1-inch touchscreen and advanced document management"
     },
     {
-        "id": 12,
+        "id": 162,
         "title": "Konica Minolta bizhub C750i",
         "model": 2026,
         "price": 17999,
@@ -108,7 +108,7 @@
         "description": "Production color printer with 75 pages per minute speed and intelligent quality optimization"
     },
     {
-        "id": 13,
+        "id": 163,
         "title": "OKI MC853dn",
         "model": 2026,
         "price": 11999,
@@ -117,7 +117,7 @@
         "description": "LED multifunction printer with Single Pass Duplex technology and energy-saving features"
     },
     {
-        "id": 14,
+        "id": 164,
         "title": "Sharp MX-5071",
         "model": 2026,
         "price": 13999,
@@ -126,7 +126,7 @@
         "description": "A3 color multifunction printer with 10.1-inch touch display and embedded security suite"
     },
     {
-        "id": 15,
+        "id": 165,
         "title": "Kyocera ECOSYS M6526cdn",
         "model": 2026,
         "price": 9999,
@@ -135,7 +135,7 @@
         "description": "Color multifunction printer with long-life drum technology and low total cost of ownership"
     },
     {
-        "id": 16,
+        "id": 166,
         "title": "Toshiba e-STUDIO356",
         "model": 2026,
         "price": 10999,
@@ -144,7 +144,7 @@
         "description": "A3 multifunction printer with 35 pages per minute speed and intuitive operation panel"
     },
     {
-        "id": 17,
+        "id": 167,
         "title": "Samsung ProXpress C3060",
         "model": 2026,
         "price": 8999,
@@ -153,7 +153,7 @@
         "description": "Color laser multifunction printer with ReCP technology for enhanced image quality"
     },
     {
-        "id": 18,
+        "id": 168,
         "title": "Pantum M6800FDW",
         "model": 2026,
         "price": 5999,
@@ -162,7 +162,7 @@
         "description": "Monochrome laser all-in-one printer with automatic document feeder and wireless connectivity"
     },
     {
-        "id": 19,
+        "id": 169,
         "title": "Dell C3765dnf",
         "model": 2026,
         "price": 7999,
@@ -171,7 +171,7 @@
         "description": "Color laser all-in-one printer with automatic duplex printing and network connectivity"
     },
     {
-        "id": 20,
+        "id": 170,
         "title": "Fujifilm ApeosPort-VII C3370",
         "model": 2026,
         "price": 15999,

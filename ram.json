@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 21,
         "title": "Corsair Dominator Platinum RGB DDR5 64GB",
         "model": 2026,
         "price": 3999,
@@ -9,7 +9,7 @@
         "description": "64GB (2x32GB) DDR5 7200MHz CL34 RGB memory with DHX cooling and iCUE control"
     },
     {
-        "id": 2,
+        "id": 22,
         "title": "G.Skill Trident Z5 RGB DDR5 32GB",
         "model": 2026,
         "price": 2299,
@@ -18,7 +18,7 @@
         "description": "32GB (2x16GB) DDR5 6400MHz CL32 RGB memory with aluminum heat spreader"
     },
     {
-        "id": 3,
+        "id": 23,
         "title": "Kingston Fury Beast DDR5 16GB",
         "model": 2026,
         "price": 1299,
@@ -27,7 +27,7 @@
         "description": "16GB (2x8GB) DDR5 6000MHz CL36 memory with low-profile heat spreader"
     },
     {
-        "id": 4,
+        "id": 24,
         "title": "TeamGroup T-Force Delta RGB DDR5 64GB",
         "model": 2026,
         "price": 3499,
@@ -36,7 +36,7 @@
         "description": "64GB (2x32GB) DDR5 6800MHz CL34 RGB memory with full-color LED lighting"
     },
     {
-        "id": 5,
+        "id": 25,
         "title": "Crucial Pro DDR5 32GB",
         "model": 2026,
         "price": 1899,
@@ -45,7 +45,7 @@
         "description": "32GB (2x16GB) DDR5 5600MHz CL46 memory with JEDEC standard specifications"
     },
     {
-        "id": 6,
+        "id": 26,
         "title": "ADATA XPG Lancer RGB DDR5 64GB",
         "model": 2026,
         "price": 3699,
@@ -54,7 +54,7 @@
         "description": "64GB (2x32GB) DDR5 7000MHz CL34 RGB memory with asymmetric design"
     },
     {
-        "id": 7,
+        "id": 27,
         "title": "Patriot Viper Venom DDR5 32GB",
         "model": 2026,
         "price": 1999,
@@ -63,7 +63,7 @@
         "description": "32GB (2x16GB) DDR5 6200MHz CL36 memory with black aluminum heat spreader"
     },
     {
-        "id": 8,
+        "id": 28,
         "title": "OLOy Blade RGB DDR5 16GB",
         "model": 2026,
         "price": 1199,
@@ -72,7 +72,7 @@
         "description": "16GB (2x8GB) DDR5 6000MHz CL36 RGB memory with dual-tone design"
     },
     {
-        "id": 9,
+        "id": 29,
         "title": "Silicon Power Zenith DDR5 64GB",
         "model": 2026,
         "price": 3199,
@@ -81,7 +81,7 @@
         "description": "64GB (2x32GB) DDR5 6600MHz CL34 memory with heat dissipation fins"
     },
     {
-        "id": 10,
+        "id": 30,
         "title": "PNY XLR8 Gaming DDR5 32GB",
         "model": 2026,
         "price": 1799,

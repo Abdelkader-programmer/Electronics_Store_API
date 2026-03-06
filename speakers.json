@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 131,
         "title": "Logitech G Pro X 2.1",
         "model": 2026,
         "price": 2999,
@@ -9,7 +9,7 @@
         "description": "2.1 gaming speaker system with 240W peak power, DTS:X Ultra, and Blue VO!CE microphone technology"
     },
     {
-        "id": 2,
+        "id": 132,
         "title": "Razer Nommo Pro",
         "model": 2026,
         "price": 3499,
@@ -18,7 +18,7 @@
         "description": "2.1 THX-certified gaming speakers with 3-inch woven glass fiber drivers and dedicated subwoofer"
     },
     {
-        "id": 3,
+        "id": 133,
         "title": "Bose Companion 50",
         "model": 2026,
         "price": 3999,
@@ -27,7 +27,7 @@
         "description": "2.1 multimedia speaker system with TrueSpace stereo digital processing and control pod"
     },
     {
-        "id": 4,
+        "id": 134,
         "title": "JBL Professional 305P MkII",
         "model": 2026,
         "price": 4499,
@@ -36,7 +36,7 @@
         "description": "Studio monitor speakers with 5-inch low-frequency transducer and 1-inch high-frequency transducer"
     },
     {
-        "id": 5,
+        "id": 135,
         "title": "Audioengine A5+ Wireless",
         "model": 2026,
         "price": 4999,
@@ -45,7 +45,7 @@
         "description": "Wireless powered speakers with 50W per channel, aptX HD Bluetooth, and analog inputs"
     },
     {
-        "id": 6,
+        "id": 136,
         "title": "Edifier R1280DB",
         "model": 2026,
         "price": 1899,
@@ -54,7 +54,7 @@
         "description": "Bookshelf speakers with Bluetooth 5.0, optical input, and 42W RMS power output"
     },
     {
-        "id": 7,
+        "id": 137,
         "title": "Creative Pebble Pro",
         "model": 2026,
         "price": 1299,
@@ -63,7 +63,7 @@
         "description": "USB-C desktop speakers with RGB lighting, 45° elevated drivers, and built-in microphone"
     },
     {
-        "id": 8,
+        "id": 138,
         "title": "Klipsch ProMedia 2.1",
         "model": 2026,
         "price": 2799,
@@ -72,7 +72,7 @@
         "description": "2.1 THX-certified computer speakers with 200 watts of peak power and dedicated subwoofer"
     },
     {
-        "id": 9,
+        "id": 139,
         "title": "Harman Kardon SoundSticks 4",
         "model": 2026,
         "price": 3299,
@@ -81,7 +81,7 @@
         "description": "Iconic transparent design 2.1 speaker system with 100W total power and Bluetooth connectivity"
     },
     {
-        "id": 10,
+        "id": 140,
         "title": "Yamaha HS5",
         "model": 2026,
         "price": 3699,
@@ -90,7 +90,7 @@
         "description": "Studio monitor speakers with 5-inch cone woofer and 1-inch dome tweeter for accurate sound reproduction"
     },
     {
-        "id": 11,
+        "id": 141,
         "title": "Mackie CR-X Series",
         "model": 2026,
         "price": 2899,
@@ -99,7 +99,7 @@
         "description": "Multimedia reference monitors with 5-inch woofers, 1-inch tweeters, and multiple input options"
     },
     {
-        "id": 12,
+        "id": 142,
         "title": "Presonus Eris E3.5",
         "model": 2026,
         "price": 1999,
@@ -108,7 +108,7 @@
         "description": "Compact studio monitors with 3.5-inch woven composite drivers and acoustic tuning controls"
     },
     {
-        "id": 13,
+        "id": 143,
         "title": "Sony SRS-RA5000",
         "model": 2026,
         "price": 5999,
@@ -117,7 +117,7 @@
         "description": "360 Reality Audio speakers with seven drivers including three up-firing speakers for immersive sound"
     },
     {
-        "id": 14,
+        "id": 144,
         "title": "Bang & Olufsen Beosound Level",
         "model": 2026,
         "price": 8999,
@@ -126,7 +126,7 @@
         "description": "Premium wireless speaker with adaptive sound technology, oak wood finish, and multiroom capability"
     },
     {
-        "id": 15,
+        "id": 145,
         "title": "Kanto YU4",
         "model": 2026,
         "price": 2499,
@@ -135,7 +135,7 @@
         "description": "Powered bookshelf speakers with 4-inch Kevlar drivers, Bluetooth aptX, and phono preamp"
     },
     {
-        "id": 16,
+        "id": 146,
         "title": "Genelec 8010A",
         "model": 2026,
         "price": 6999,
@@ -144,7 +144,7 @@
         "description": "Professional studio monitors with 3-inch drivers, Intelligent Signal Sensing, and DCW waveguide"
     },
     {
-        "id": 17,
+        "id": 147,
         "title": "Focal Alpha 50",
         "model": 2026,
         "price": 5499,
@@ -153,7 +153,7 @@
         "description": "Active studio monitors with 5-inch aluminum/magnesium woofers and 1-inch aluminum inverted dome tweeters"
     },
     {
-        "id": 18,
+        "id": 148,
         "title": "Adam Audio T5V",
         "model": 2026,
         "price": 4299,
@@ -162,7 +162,7 @@
         "description": "Studio monitors with U-ART ribbon tweeters, 5-inch woofers, and front-firing bass reflex ports"
     },
     {
-        "id": 19,
+        "id": 149,
         "title": "IK Multimedia iLoud Micro",
         "model": 2026,
         "price": 1799,
@@ -171,7 +171,7 @@
         "description": "Ultra-compact studio monitors with 3-inch woofers, 3/4-inch tweeters, and built-in room correction"
     },
     {
-        "id": 20,
+        "id": 150,
         "title": "Neumann KH 80 DSP",
         "model": 2026,
         "price": 9999,

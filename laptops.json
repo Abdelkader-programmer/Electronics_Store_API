@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 171,
         "title": "Dell XPS 15 2026",
         "model": 2026,
         "price": 45999,
@@ -9,7 +9,7 @@
         "description": "Professional laptop with 15-inch OLED display and Intel Core i9 processor, perfect for designers and developers"
     },
     {
-        "id": 2,
+        "id": 172,
         "title": "MacBook Pro 16 2026",
         "model": 2026,
         "price": 74999,
@@ -18,7 +18,7 @@
         "description": "Apple's flagship laptop with M3 Max chip, 16.2-inch Liquid Retina XDR display, and 64GB RAM"
     },
     {
-        "id": 3,
+        "id": 173,
         "title": "HP Spectre x360 16",
         "model": 2026,
         "price": 38999,
@@ -27,7 +27,7 @@
         "description": "2-in-1 convertible laptop with 360-degree hinge, OLED touchscreen, and Intel Evo platform"
     },
     {
-        "id": 4,
+        "id": 174,
         "title": "Lenovo ThinkPad X1 Carbon Gen 12",
         "model": 2026,
         "price": 41999,
@@ -36,7 +36,7 @@
         "description": "Ultra-light business laptop with military-grade durability and best-in-class keyboard"
     },
     {
-        "id": 5,
+        "id": 175,
         "title": "ASUS ROG Zephyrus G16",
         "model": 2026,
         "price": 52999,
@@ -45,7 +45,7 @@
         "description": "Gaming laptop with NVIDIA RTX 4070, Intel Core i9, and 240Hz QHD+ display"
     },
     {
-        "id": 6,
+        "id": 176,
         "title": "Microsoft Surface Laptop Studio 2",
         "model": 2026,
         "price": 46999,
@@ -54,7 +54,7 @@
         "description": "Versatile laptop with dynamic woven hinge, touchscreen, and NVIDIA RTX 4060"
     },
     {
-        "id": 7,
+        "id": 177,
         "title": "Razer Blade 16",
         "model": 2026,
         "price": 61999,
@@ -63,7 +63,7 @@
         "description": "Premium gaming laptop with dual-mode mini-LED display and RTX 4090 graphics"
     },
     {
-        "id": 8,
+        "id": 178,
         "title": "Acer Swift Edge 16",
         "model": 2026,
         "price": 32999,
@@ -72,7 +72,7 @@
         "description": "Ultra-thin and light laptop with 16-inch OLED display and AMD Ryzen 7 processor"
     },
     {
-        "id": 9,
+        "id": 179,
         "title": "MSI Titan 18 HX",
         "model": 2026,
         "price": 69999,
@@ -81,7 +81,7 @@
         "description": "Desktop replacement gaming laptop with 18-inch 4K display and Intel Core i9-14900HX"
     },
     {
-        "id": 10,
+        "id": 180,
         "title": "LG Gram 17",
         "model": 2026,
         "price": 35999,
@@ -90,7 +90,7 @@
         "description": "World's lightest 17-inch laptop with all-day battery life and Intel Evo certification"
     },
     {
-        "id": 11,
+        "id": 181,
         "title": "Alienware m18 R2",
         "model": 2026,
         "price": 65999,
@@ -99,7 +99,7 @@
         "description": "Extreme gaming laptop with 18-inch display, Cherry MX keyboard, and Cryo-Tech cooling"
     },
     {
-        "id": 12,
+        "id": 182,
         "title": "Framework Laptop 16",
         "model": 2026,
         "price": 37999,
@@ -108,7 +108,7 @@
         "description": "Modular and repairable laptop with swappable ports, keyboard, and GPU modules"
     },
     {
-        "id": 13,
+        "id": 183,
         "title": "Samsung Galaxy Book4 Ultra",
         "model": 2026,
         "price": 44999,
@@ -117,7 +117,7 @@
         "description": "AI-powered laptop with AMOLED display, Intel Core Ultra 9, and Galaxy ecosystem integration"
     },
     {
-        "id": 14,
+        "id": 184,
         "title": "HP Omen Transcend 16",
         "model": 2026,
         "price": 48999,
@@ -126,7 +126,7 @@
         "description": "Slim gaming laptop with RGB lighting, 240Hz display, and Omen Tempest cooling"
     },
     {
-        "id": 15,
+        "id": 185,
         "title": "Lenovo Legion Pro 7i",
         "model": 2026,
         "price": 53999,
@@ -135,7 +135,7 @@
         "description": "Performance gaming laptop with Lenovo LA-2 AI chip and PureSight Pro display"
     },
     {
-        "id": 16,
+        "id": 186,
         "title": "ASUS Zenbook Pro 16X",
         "model": 2026,
         "price": 47999,
@@ -144,7 +144,7 @@
         "description": "Creator laptop with ASUS Dial, 3.2K OLED display, and NVIDIA Studio drivers"
     },
     {
-        "id": 17,
+        "id": 187,
         "title": "Dell Alienware x16 R2",
         "model": 2026,
         "price": 58999,
@@ -153,7 +153,7 @@
         "description": "Slim gaming laptop with 16-inch QHD+ display, AlienFX lighting, and Dolby Atmos"
     },
     {
-        "id": 18,
+        "id": 188,
         "title": "Apple MacBook Air 15",
         "model": 2026,
         "price": 34999,
@@ -162,7 +162,7 @@
         "description": "Thin and light laptop with M3 chip, 15.3-inch Liquid Retina display, and 18-hour battery"
     },
     {
-        "id": 19,
+        "id": 189,
         "title": "Microsoft Surface Laptop 6",
         "model": 2026,
         "price": 32999,
@@ -171,7 +171,7 @@
         "description": "Business laptop with Copilot+ AI features, haptic touchpad, and all-day battery"
     },
     {
-        "id": 20,
+        "id": 190,
         "title": "Acer Predator Helios 18",
         "model": 2026,
         "price": 56999,
