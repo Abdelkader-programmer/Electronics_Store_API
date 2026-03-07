@@ -293,166 +293,6 @@ app.get('/api/products/stats', (req, res) => {
     });
 });
 
-// ---------- GET SIMILAR PRODUCTS ----------
-app.get('/api/products/similar/:id', (req, res) => {
-    const id = req.params.id;
-    let foundProduct = null;
-    let foundCategory = null;
-
-    // Find the product
-    for (const [category, products] of Object.entries(electronicsData)) {
-        const product = products.find(p => String(p.id) === String(id));
-        if (product) {
-            foundProduct = product;
-            foundCategory = category;
-            break;
-        }
-    }
-
-    if (!foundProduct) {
-        return res.status(404).json({ 
-            success: false,
-            message: `Product with ID [${id}] not found.`
-        });
-    }
-
-    // Get products from same category (excluding the current product)
-    const similarProducts = electronicsData[foundCategory]
-        .filter(p => String(p.id) !== String(id))
-        .slice(0, 5);
-
-    res.status(200).json({
-        success: true,
-        currentProduct: foundProduct.title,
-        category: foundCategory,
-        similarCount: similarProducts.length,
-        results: similarProducts
-    });
-});
-
-// ---------- GET PRODUCTS BY CATEGORY ----------
-app.get('/api/products/category/:category', (req, res) => {
-    const category = req.params.category.toLowerCase().trim();
-    const categoryData = electronicsData[category];
-
-    if (!categoryData) {
-        return res.status(404).json({ 
-            success: false,
-            message: `Category '${req.params.category}' not found.`
-        });
-    }
-
-    res.status(200).json({
-        success: true,
-        info: { 
-            totalProducts: categoryData.length,
-            category: req.params.category
-        },
-        results: categoryData
-    });
-});
-
-// ---------- GET PRODUCT DETAILS ----------
-app.get('/api/products/:id', (req, res) => {
-    const id = req.params.id;
-    let foundProduct = null;
-    let foundCategory = null;
-
-    // Search for product in all categories
-    for (const [category, products] of Object.entries(electronicsData)) {
-        const product = products.find(p => String(p.id) === String(id));
-        if (product) {
-            foundProduct = { ...product }; // Create a copy
-            foundCategory = category;
-            break;
-        }
-    }
-
-    if (!foundProduct) {
-        return res.status(404).json({ 
-            success: false,
-            message: `Product with ID [${id}] not found.`
-        });
-    }
-
-    // Add category to product object
-    foundProduct.category = foundCategory;
-
-    res.status(200).json({
-        success: true,
-        message: 'Product details fetched successfully',
-        product: foundProduct
-    });
-});
-
-// ---------- ADD NEW PRODUCT ----------
-app.post('/api/products', (req, res) => {
-    const { 
-        title, 
-        model, 
-        price, 
-        color,
-        category
-    } = req.body;
-
-    // Check required fields
-    const requiredFields = ['title', 'model', 'price', 'color', 'category'];
-    const missingFields = requiredFields.filter(field => !req.body[field]);
-
-    if (missingFields.length > 0) {
-        return res.status(400).json({
-            success: false,
-            message: `Missing required fields: ${missingFields.join(', ')}`
-        });
-    }
-
-    const categoryKey = category.toLowerCase().trim();
-    const newProduct = {
-        id: Date.now(), // Temporary unique ID
-        title,
-        model: parseInt(model),
-        price: parseFloat(price),
-        color,
-        category,
-        createdAt: new Date().toISOString(),
-        ...req.body
-    };
-
-    // If category doesn't exist, create it
-    if (!electronicsData[categoryKey]) {
-        electronicsData[categoryKey] = [];
-    }
-
-    electronicsData[categoryKey].push(newProduct);
-
-    res.status(201).json({
-        success: true,
-        message: 'Product added successfully (in-memory only)',
-        product: newProduct,
-        info: {
-            totalInCategory: electronicsData[categoryKey].length
-        }
-    });
-});
-
-// ---------- GET CATEGORIES LIST ----------
-app.get('/api/categories', (req, res) => {
-    const categories = Object.keys(electronicsData).map(category => ({
-        name: category,
-        count: electronicsData[category].length,
-        sampleProduct: electronicsData[category][0]?.title || 'No products'
-    }));
-
-    res.status(200).json({
-        success: true,
-        info: {
-            totalCategories: categories.length,
-            timestamp: new Date().toISOString()
-        },
-        categories
-    });
-});
-
 // ---------- FILTER PRODUCTS WITH MULTIPLE OPTIONS ----------
 app.get('/api/products/filter', (req, res) => {
     const {
@@ -633,6 +473,166 @@ app.get('/api/products/price-range/:range', (req, res) => {
             avgPrice: parseFloat((filteredProducts.reduce((sum, p) => sum + p.price, 0) / filteredProducts.length).toFixed(2))
         },
         results: filteredProducts
+    });
+});
+
+// ---------- GET SIMILAR PRODUCTS ----------
+app.get('/api/products/similar/:id', (req, res) => {
+    const id = req.params.id;
+    let foundProduct = null;
+    let foundCategory = null;
+
+    // Find the product
+    for (const [category, products] of Object.entries(electronicsData)) {
+        const product = products.find(p => String(p.id) === String(id));
+        if (product) {
+            foundProduct = product;
+            foundCategory = category;
+            break;
+        }
+    }
+
+    if (!foundProduct) {
+        return res.status(404).json({ 
+            success: false,
+            message: `Product with ID [${id}] not found.`
+        });
+    }
+
+    // Get products from same category (excluding the current product)
+    const similarProducts = electronicsData[foundCategory]
+        .filter(p => String(p.id) !== String(id))
+        .slice(0, 5);
+
+    res.status(200).json({
+        success: true,
+        currentProduct: foundProduct.title,
+        category: foundCategory,
+        similarCount: similarProducts.length,
+        results: similarProducts
+    });
+});
+
+// ---------- GET PRODUCTS BY CATEGORY ----------
+app.get('/api/products/category/:category', (req, res) => {
+    const category = req.params.category.toLowerCase().trim();
+    const categoryData = electronicsData[category];
+
+    if (!categoryData) {
+        return res.status(404).json({ 
+            success: false,
+            message: `Category '${req.params.category}' not found.`
+        });
+    }
+
+    res.status(200).json({
+        success: true,
+        info: { 
+            totalProducts: categoryData.length,
+            category: req.params.category
+        },
+        results: categoryData
+    });
+});
+
+// ---------- GET PRODUCT DETAILS ----------
+app.get('/api/products/:id', (req, res) => {
+    const id = req.params.id;
+    let foundProduct = null;
+    let foundCategory = null;
+
+    // Search for product in all categories
+    for (const [category, products] of Object.entries(electronicsData)) {
+        const product = products.find(p => String(p.id) === String(id));
+        if (product) {
+            foundProduct = { ...product }; // Create a copy
+            foundCategory = category;
+            break;
+        }
+    }
+
+    if (!foundProduct) {
+        return res.status(404).json({ 
+            success: false,
+            message: `Product with ID [${id}] not found.`
+        });
+    }
+
+    // Add category to product object
+    foundProduct.category = foundCategory;
+
+    res.status(200).json({
+        success: true,
+        message: 'Product details fetched successfully',
+        product: foundProduct
+    });
+});
+
+// ---------- ADD NEW PRODUCT ----------
+app.post('/api/products', (req, res) => {
+    const { 
+        title, 
+        model, 
+        price, 
+        color,
+        category
+    } = req.body;
+
+    // Check required fields
+    const requiredFields = ['title', 'model', 'price', 'color', 'category'];
+    const missingFields = requiredFields.filter(field => !req.body[field]);
+
+    if (missingFields.length > 0) {
+        return res.status(400).json({
+            success: false,
+            message: `Missing required fields: ${missingFields.join(', ')}`
+        });
+    }
+
+    const categoryKey = category.toLowerCase().trim();
+    const newProduct = {
+        id: Date.now(), // Temporary unique ID
+        title,
+        model: parseInt(model),
+        price: parseFloat(price),
+        color,
+        category,
+        createdAt: new Date().toISOString(),
+        ...req.body
+    };
+
+    // If category doesn't exist, create it
+    if (!electronicsData[categoryKey]) {
+        electronicsData[categoryKey] = [];
+    }
+
+    electronicsData[categoryKey].push(newProduct);
+
+    res.status(201).json({
+        success: true,
+        message: 'Product added successfully (in-memory only)',
+        product: newProduct,
+        info: {
+            totalInCategory: electronicsData[categoryKey].length
+        }
+    });
+});
+
+// ---------- GET CATEGORIES LIST ----------
+app.get('/api/categories', (req, res) => {
+    const categories = Object.keys(electronicsData).map(category => ({
+        name: category,
+        count: electronicsData[category].length,
+        sampleProduct: electronicsData[category][0]?.title || 'No products'
+    }));
+
+    res.status(200).json({
+        success: true,
+        info: {
+            totalCategories: categories.length,
+            timestamp: new Date().toISOString()
+        },
+        categories
     });
 });
 
