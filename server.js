@@ -476,6 +476,26 @@ app.get('/api/products/price-range/:range', (req, res) => {
     });
 });
 
+// ---------- GET PRODUCTS BY COLOR ----------
+app.get('/api/products/color/:color', (req, res) => {
+    const color = req.params.color.toLowerCase();
+    const allProducts = Object.values(electronicsData).flat();
+    
+    const filteredProducts = allProducts.filter(product => 
+        product.color?.toLowerCase().includes(color)
+    );
+
+    res.status(200).json({
+        success: true,
+        color: req.params.color,
+        info: {
+            totalProducts: filteredProducts.length,
+            availableColors: [...new Set(filteredProducts.map(p => p.color).filter(Boolean))]
+        },
+        results: filteredProducts
+    });
+});
+
 // ---------- GET SIMILAR PRODUCTS ----------
 app.get('/api/products/similar/:id', (req, res) => {
     const id = req.params.id;
@@ -633,26 +653,6 @@ app.get('/api/categories', (req, res) => {
             timestamp: new Date().toISOString()
         },
         categories
-    });
-});
-
-// ---------- GET PRODUCTS BY COLOR ----------
-app.get('/api/products/color/:color', (req, res) => {
-    const color = req.params.color.toLowerCase();
-    const allProducts = Object.values(electronicsData).flat();
-    
-    const filteredProducts = allProducts.filter(product => 
-        product.color?.toLowerCase().includes(color)
-    );
-
-    res.status(200).json({
-        success: true,
-        color: req.params.color,
-        info: {
-            totalProducts: filteredProducts.length,
-            availableColors: [...new Set(filteredProducts.map(p => p.color).filter(Boolean))]
-        },
-        results: filteredProducts
     });
 });
 
